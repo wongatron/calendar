@@ -34,5 +34,6 @@ Upcoming
 - Day 25
 
 
-
+<!--
 [Subscribe to the Web Feed](feed.xml)
+-->
