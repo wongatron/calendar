@@ -12,7 +12,9 @@
  
   {% if page.path contains "index" %}
   {% else %}
-     <p>add link back here</p>
+     <p>
+       <a href="/">Ruby Advent Calendar 2017</a>
+     </p>
   {% endif %}
   
   
@@ -20,7 +22,14 @@
 
    {{ content }}
 
-   {% include footer.html %}
- </div>
+  {% if page.path contains "index" %}
+  {% else %}
+     <hr>
+     <div style="font-size: 80%;">
+       From the <a href="/">Ruby Advent Calendar 2017</a>
+     </div>
+  {% endif %}
+ 
+  </div>
 </body>
 </html>
