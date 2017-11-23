@@ -10,6 +10,10 @@
 <body>
   {% include github.html %}
  
+  <p>
+    page.path: {{ page.path }}
+  </p>
+  
   {% if page.path contains "index" %}
   {% else %}
      <p>
