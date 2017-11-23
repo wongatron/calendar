@@ -1,8 +1,7 @@
 
-_Build your own blockchain with crypto hashes - revolutionize the world with blockchains, blockchains, blockchains one block at a time!_ 
+_Revolutionize the world with blockchains, blockchains, blockchains one block at a time!_ 
 
-
-# blockchain-lite libary / gem 
+# blockchain-lite library / gem - Build Your Own Blockchains with Crypto Hashes
 
 github: [openblockchains/blockchain.lite.rb](https://github.com/openblockchains/blockchain.lite.rb), 
 rubygems: [blockchain-lite](https://rubygems.org/gems/blockchain-lite)
@@ -18,7 +17,7 @@ rubygems: [blockchain-lite](https://rubygems.org/gems/blockchain-lite)
 See the [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains) page for more.
 
 
-## Let's get started.
+## Let's Get Started.
 
 Build your own blockchain one block at a time. Example:
 
