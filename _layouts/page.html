@@ -10,6 +10,12 @@
 <body>
   {% include github.html %}
  
+  {% if page.path contains "index" %}
+  {% else %}
+     <p>add link back here</p>
+  {% endif %}
+  
+  
   <div class="container">
 
    {{ content }}
