@@ -1,4 +1,5 @@
 
+
 # Ruby Advent Calendar 2017 
 
 _25 Days of Ruby Gems / Libraries, December 1 - December 25_
@@ -33,4 +34,5 @@ Upcoming
 - Day 25
 
 
-Subscribe to the Web Feed
+
+[Subscribe to the Web Feed](feed.xml)
