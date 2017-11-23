@@ -22,8 +22,8 @@ $table-odd-background-color: #f9f9f9;
 
    body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 20px;
-    line-height: 1.5;
+    font-size: 18px;   // note: was 20px;
+    // line-height: 1.5;
    }
 
 
@@ -56,20 +56,20 @@ pre {
 }
 code {
   padding: .25em .5em;
-  font-size: 85%;
+  // font-size: 85%;
 }
 
 pre {
   margin-top: 0;
   margin-bottom: 1rem;
   padding: 1rem;
-  font-size: .8rem;
-  line-height: 1.4;
+  // font-size: .8rem;
+  // line-height: 1.4;
   background-color: $pre-background-color;
 
   code {
     padding: 0;
-    font-size: 100%;
+    // font-size: 100%;
     color: inherit;
     background-color: transparent;
   }
