@@ -9,28 +9,24 @@
 </head>
 <body>
   {% include github.html %}
- 
-  <p>
-    page.path: {{ page.path }}
-  </p>
-  
-  {% if page.path contains "index" %}
-  {% else %}
-     <p>
-       <a href="/">Ruby Advent Calendar 2017</a>
-     </p>
-  {% endif %}
-  
-  
+    
   <div class="container">
 
+  {% if page.path contains "README" %}
+  {% else %}
+     <p style="font-size: 80%;">
+       <a href="{{ '/' | relative_url } }}">« Ruby Advent Calendar 2017</a>
+     </p>
+  {% endif %}
+    
+    
    {{ content }}
 
   {% if page.path contains "index" %}
   {% else %}
      <hr>
      <div style="font-size: 80%;">
-       From the <a href="/">Ruby Advent Calendar 2017</a>
+       From the <a href="{{ '/' | relative_url } }}>Ruby Advent Calendar 2017</a>
      </div>
   {% endif %}
  
