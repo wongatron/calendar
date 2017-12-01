@@ -5,9 +5,13 @@
 _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 
 
+- [**Day 1 - blockchain-lite**](01-blockchain-lite.md) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time!
+
+
+<!-- break -->
+
 Upcoming
 
-- [**Day 1 - blockchain-lite**](01-blockchain-lite.md) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time!
 - Day 2
 - Day 3
 - Day 4
