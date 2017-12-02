@@ -6,13 +6,12 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 
 
 - [**Day 1 - blockchain-lite**](01-blockchain-lite.md) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time!
-
+- [**Day 2 - factbook**](02-factbook.md) - Turn the World Factbook (260+ country profiles) into open structured data e.g JSON
 
 <!-- break -->
 
 Upcoming
 
-- Day 2
 - Day 3
 - Day 4
 - Day 5
