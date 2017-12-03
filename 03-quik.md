@@ -15,7 +15,7 @@ Q: How do you get started with creating a new gem?
 - [E] Other (Please Tell).
 
 
-Q: How do you get started with creating a new sinatra appor service?
+Q: How do you get started with creating a new sinatra app or service?
 
 - [A] From scratch ;-)
 - [B] Using [padrino](http://padrinorb.com/guides/generators/projects) with `$ padrino g project`
