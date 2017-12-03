@@ -1,5 +1,4 @@
-# quik - quick starter template script wizard -
-the missing code generator and project scaffolder for gems, sinatra, jekyll & more
+# quik - quick starter template script wizard - the missing code generator and project scaffolder for gems, sinatra, jekyll & more
 
 github: [quikstart/quik](https://github.com/quikstart/quik),
 rubygems: [quik](https://rubygems.org/gems/quik)
