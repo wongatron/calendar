@@ -1,7 +1,7 @@
 _Single-Text File Journals - The Human Multi-Document Format for Writers - Blogging Reinvented_
 
 
-# journaltxt library / gem and command line tool - Reads Journal.TXT - Single-Text File Journals - and Writes Out (Auto-Builds) a Blog (w/ Jekyll Posts etc.)
+# journaltxt library / gem and command line tool - Blogging Reinvented: Read Journal.TXT - Single-Text File Journals - and Write Out (Auto-Build) a Blog (w/ Jekyll Posts etc.)
 
 github: [journaltxt/journaltxt](https://github.com/journaltxt/journaltxt), 
 rubygems: [journaltxt](https://rubygems.org/gems/journaltxt)
