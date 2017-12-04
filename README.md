@@ -8,12 +8,12 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 1 - blockchain-lite**](01-blockchain-lite.md) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time!
 - [**Day 2 - factbook**](02-factbook.md) - Turn the World Factbook (260+ country profiles) into open structured data e.g JSON
 - [**Day 3 - quik**](03-quik.md) - Quick starter template script wizard - the missing code generator and project scaffolder for gems, sinatra, jekyll & more
+- [**Day 4 - journaltxt**](04-journaltxt.md) - Blogging reinvented: Read Journal.TXT - single-text file journals - and write out (auto-build) a blog (w/ Jekyll posts etc.)
 
 <!-- break -->
 
 Upcoming
 
-- Day 4
 - Day 5
 - Day 6
 - Day 7
