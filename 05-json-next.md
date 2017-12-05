@@ -53,7 +53,7 @@ _Fixing JSON - Comments, Please!_
 
 ## What's the json-next library / gem?
 
-The json-next lets you convert and read (parse) next generation json versions
+The json-next library lets you convert and read (parse) next generation json versions
 including: HanSON e.g. `HANSON.parse`,  SON e.g. `SON.parse`, JSONX e.g. `JSONX.parse`.
 
 
