@@ -9,12 +9,12 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 2 - factbook**](02-factbook.md) - Turn the World Factbook (260+ country profiles) into open structured data e.g JSON
 - [**Day 3 - quik**](03-quik.md) - Quick starter template script wizard - the missing code generator and project scaffolder for gems, sinatra, jekyll & more
 - [**Day 4 - journaltxt**](04-journaltxt.md) - Blogging reinvented: Read Journal.TXT - single-text file journals - and write out (auto-build) a blog (w/ Jekyll posts etc.)
+- [**Day 5 - json-next**](05-json-next.md) - Read next generation JSON versions (HanSON, SON, JSONX/JSON11, etc.) with comments, unquoted keys, multi-line strings, trailing commas, optional commas, and more
 
 <!-- break -->
 
 Upcoming
 
-- Day 5
 - Day 6
 - Day 7
 - Day 8
