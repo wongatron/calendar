@@ -1,6 +1,6 @@
-_Get free guinness or ottakringer beers delivered to your home (computer) in JSON and much much more_
+_Get free a wiener lager, welsh red ale or kriek lambic beer delivered to your home (computer) in JSON and much much more_
 
-# webservice library / gem - script HTTP JSON APIs (web services); load (micro) web services at-runtime and more. 
+# webservice library / gem - Script HTTP JSON APIs (Web Services); Load (Micro) Web Services At-Runtime and More. 
 
 github: [rubylibs/webservice](https://github.com/rubylibs/webservice), 
 rubygems: [webservice](https://rubygems.org/gems/webservice)
