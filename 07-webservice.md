@@ -1,4 +1,4 @@
-_Get free a wiener lager, welsh red ale or kriek lambic beer delivered to your home (computer) in JSON and much much more_
+_Get a free wiener lager, welsh red ale or kriek lambic beer delivered to your home (computer) in JSON and much much more_
 
 # webservice library / gem - Script HTTP JSON APIs (Web Services); Load (Micro) Web Services At-Runtime and More. 
 
