@@ -1,7 +1,7 @@
 _The Future of Online News - The Future of Facebook & Co - Web Feeds, Web Feeds, Web Feeds_
 
 
-# feedparser library / gem - Read Web Feeds in XML, HTML, JSON, TXT and More; Build Your Own News Reader from Scratch in 20 Lines
+# feedparser library / gem - Read Web Feeds in XML, HTML, JSON, TXT and More; Build Your Own News Reader from Scratch in Twenty Lines
 
 github: [feedparser/feedparser](https://github.com/feedparser/feedparser), 
 rubygems: [feedparser](https://rubygems.org/gems/feedparser)
