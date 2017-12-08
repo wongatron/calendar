@@ -12,13 +12,13 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 5 - json-next**](05-json-next.md) - Read next generation JSON versions (HanSON, SON, JSONX/JSON11, etc.) with comments, unquoted keys, multi-line strings, trailing commas, optional commas, and more
 - [**Day 6 - almost-sinatra**](06-almost-sinatra.md) - Build your own webframework from scratch with Rack and Tilt in less than ten lines; six lines of Almost Sinatra "unobfuscated" and bundled up for easy (re)use
 - [**Day 7 - webservice**](07-webservice.md) - Script HTTP JSON APIs (web services) in classy Sinatra 2.0-style get / post methods with Mustermann 1.0 route / url pattern matching; load (micro) web services at-runtime and more
+- [**Day 8 - feedparser**](08-feedparser.md) - Read web feeds in XML, HTML, JSON, TXT and more; build your own news reader from scratch in twenty lines
 
 
 <!-- break -->
 
 Upcoming
 
-- Day 8
 - Day 9
 - Day 10
 - Day 11
