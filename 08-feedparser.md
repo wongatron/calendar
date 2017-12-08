@@ -1,7 +1,7 @@
 _The Future of Online News - The Future of Facebook & Co - Web Feeds, Web Feeds, Web Feeds_
 
 
-# feedparser library / gem - Read Web Feeds in XML, HTML, JSON, TXT and more; Build Your Own News Reader from Scratch in 20 Lines
+# feedparser library / gem - Read Web Feeds in XML, HTML, JSON, TXT and More; Build Your Own News Reader from Scratch in 20 Lines
 
 github: [feedparser/feedparser](https://github.com/feedparser/feedparser), 
 rubygems: [feedparser](https://rubygems.org/gems/feedparser)
@@ -60,7 +60,7 @@ Example:
 RDF = Resource Description Framework
 
 
-**Trivia Quiz - Find the Content - Q: What's your favorite way to add content in hypertext to RSS 2.0?
+**Trivia Quiz - Find the Content - Q: What's your favorite way to add content in hypertext to RSS 2.0?**
 
 - (A) `<description>`
 - (B) `<content:encoded>`  from RDF/RSS 1.0 content module extension
@@ -72,7 +72,7 @@ Is your content a summary? or full text?
 
 
 
-## Web Feed Formats in 2017 - XML, JSON, YAML, HTML, TXT
+## The State of Web Feed Formats in 2017 - XML, JSON, YAML, HTML, TXT
 
 Let's celebrate diversity! Live and let live! 
 Web feed formats today in 2017 include:
