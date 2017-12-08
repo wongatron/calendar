@@ -62,10 +62,10 @@ RDF = Resource Description Framework
 
 **Trivia Quiz - Find the Content - Q: What's your favorite way to add content in hypertext to RSS 2.0?**
 
-- (A) `<description>`
-- (B) `<content:encoded>`  from RDF/RSS 1.0 content module extension
-- (C) `<media:content>`  from Yahoo! search extension
-- (D) Other?  Please, tell!
+- [A] `<description>`
+- [B] `<content:encoded>`  from RDF/RSS 1.0 content module extension
+- [C] `<media:content>`  from Yahoo! search extension
+- [D] Other?  Please, tell!
 
 Bonus: Is your content in plain text, in html, in xhtml, in html escaped?
 Is your content a summary? or full text?
