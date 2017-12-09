@@ -40,8 +40,22 @@ Upcoming
 
 And many more
 
-- [**metasm**](https://github.com/jjyg/metasm), the Ruby assembly manipulation suite - recommended by [Torsten Rüger](https://github.com/dancinglightning)
-- [**moneta**](https://github.com/minad/moneta), a unified interface to key/value stores - recommended by [Arnaud Berthomier]()
+[**metasm**](https://github.com/jjyg/metasm), an assembly manipulation suite
+
+> My all time favourite piece of work that hardly anybody knows about. Metasm compiles / decompiles 
+> about a dozen cpus and a handful of binary formats. In 100% ruby.
+>
+> -- [Torsten Rüger](https://github.com/dancinglightning)
+
+[**moneta**](https://github.com/minad/moneta), a unified interface to key/value stores 
+
+> Moneta provides a standard interface for interacting with various
+> kinds of key/value stores. Moneta supports the well-known NoSQL and document based stores.
+> It's kinda like Tilt, but for key-value stores.
+>
+> -- Arnaud Berthomier
+
+
 
 
 <!--
