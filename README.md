@@ -13,7 +13,7 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 6 - almost-sinatra**](06-almost-sinatra.md) - Build your own webframework from scratch with Rack and Tilt in less than ten lines; six lines of Almost Sinatra "unobfuscated" and bundled up for easy (re)use
 - [**Day 7 - webservice**](07-webservice.md) - Script HTTP JSON APIs (web services) in classy Sinatra 2.0-style get / post methods with Mustermann 1.0 route / url pattern matching; load (micro) web services at-runtime and more
 - [**Day 8 - feedparser**](08-feedparser.md) - Read web feeds in XML, HTML, JSON, TXT and more; build your own news reader from scratch in twenty lines
-- [**Day 9 - hexapdf**](09-hexapdf.md) - Read and write PDF documents; start from zero or merge, extract, optimize and much more. Written by Thomas Leithner  {% avatar gettalong %}  
+- [**Day 9 - hexapdf**](09-hexapdf.md) - Read and write PDF documents; start from zero or merge, extract, optimize and much more. Written by Thomas Leithner  {% avatar gettalong size=20 %}  
 
 <!-- break -->
 
@@ -44,7 +44,7 @@ And many more
 > My all time favourite piece of work that hardly anybody knows about. Metasm compiles / decompiles 
 > about a dozen cpus and a handful of binary formats. In 100% ruby.
 >
-> -- [Torsten Rüger](https://github.com/dancinglightning) {% avatar dancinglightning %}
+> -- [Torsten Rüger](https://github.com/dancinglightning) {% avatar dancinglightning size=20 %}
 
 [**moneta**](https://github.com/minad/moneta), a unified interface to key/value stores 
 
