@@ -9,7 +9,7 @@ github: [gettalong/hexapdf](https://github.com/gettalong/hexapdf),
 rubygems: [hexapdf](https://rubygems.org/gems/hexapdf)
 
 
-Written by Thomas Leithner 
+Written by Thomas Leithner  {% avatar gettalong %}
 
 
 
@@ -27,15 +27,15 @@ HexaPDF was designed with ease of use and performance in mind. It uses lazy load
 
 If you are concerned regarding the performance, have a look at the following gists which show that HexaPDF performs quite well:
 
-* Raw text output performance: https://gist.github.com/gettalong/0d7c576064725774299cdf4d1a51d2b9
-* Advanced text output (i.e. line wrapping) performance: https://gist.github.com/gettalong/8afae547ac3e50e9b8ce6c521a2a0eea
-* HexaPDF CLI performance: https://gist.github.com/gettalong/8955ff5403fe7abb7bee
+* [Raw text output performance](https://gist.github.com/gettalong/0d7c576064725774299cdf4d1a51d2b9)
+* [Advanced text output (i.e. line wrapping) performance](https://gist.github.com/gettalong/8afae547ac3e50e9b8ce6c521a2a0eea)
+* [HexaPDF CLI performance](https://gist.github.com/gettalong/8955ff5403fe7abb7bee)
 
 
 ## Examples
 
 
-### Command Line 
+### Command Line  
 
 
 The [manual page](https://hexapdf.gettalong.org/documentation/hexapdf.1.html) of the `hexapdf` command explains all functionality in detail. It basically strives to be a universal PDF manipulation tool.
@@ -48,7 +48,7 @@ The [manual page](https://hexapdf.gettalong.org/documentation/hexapdf.1.html) of
 
   The important thing to remember here is that this transformation is done **losslessly** because some (online) tools boast with huge compression ratios but destroy information while optimizing, e.g. by down-sampling images.
   
-  As for the performance of HexaPDF: It is actually quite good in terms of runtime and space savings, see <https://gist.github.com/gettalong/8955ff5403fe7abb7bee> for a comparison to other command line tools.
+  As for the performance of HexaPDF: It is actually quite good in terms of runtime and space savings, see [HexaPDF Performance Comparison](https://gist.github.com/gettalong/8955ff5403fe7abb7bee) for a comparison to other command line tools.
  
 * If you need to perform a certain operation on many PDFs, the `hexapdf` command allows you to work in **batch mode**. The following example optimize three files and saving them with a filename prefix of `done-`:
 
