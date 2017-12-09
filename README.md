@@ -38,6 +38,12 @@ Upcoming
 - Day 25
 
 
+And many more
+
+[**metasm**](https://github.com/jjyg/metasm), the Ruby assembly manipulation suite - recommended by [Torsten Rüger](https://github.com/dancinglightning)   •
+[**moneta**](https://github.com/minad/moneta), a unified interface to key/value stores - recommended by [Arnaud Berthomier]()
+
+
 <!--
 [Subscribe to the Web Feed](feed.xml)
 -->
