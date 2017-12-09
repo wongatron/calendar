@@ -52,7 +52,7 @@ And many more
 > kinds of key/value stores. Moneta supports the well-known NoSQL and document based stores.
 > It's kinda like Tilt, but for key-value stores.
 >
-> -- Arnaud Berthomier
+> -- [Arnaud Berthomier](https://github.com/oz) {% avatar oz size=20 %} 
 
 
 
