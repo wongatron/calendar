@@ -14,12 +14,12 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 7 - webservice**](07-webservice.md) - Script HTTP JSON APIs (web services) in classy Sinatra 2.0-style get / post methods with Mustermann 1.0 route / url pattern matching; load (micro) web services at-runtime and more
 - [**Day 8 - feedparser**](08-feedparser.md) - Read web feeds in XML, HTML, JSON, TXT and more; build your own news reader from scratch in twenty lines
 - [**Day 9 - hexapdf**](09-hexapdf.md) - Read and write PDF documents; start from zero or merge, extract, optimize and much more. Written by Thomas Leithner  {% avatar gettalong size=20 %}  
+- [**Day 10 - feedtxt**](10-feedtxt.md) - Read Feed.TXT - feeds in text (unicode); publish & share posts, articles, podcasts, 'n' more
 
 <!-- break -->
 
 Upcoming
 
-- Day 10
 - Day 11
 - Day 12
 - Day 13
