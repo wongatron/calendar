@@ -1,7 +1,7 @@
-_Podcast web feeds with RSS enclosures and JSON Feeds attachments in the ogg, mp3 or m4a audio formats_
+_Podcast Web Feeds with RSS Enclosures and JSON Feeds Attachments in the OGG, MP3 or M4A Audio Formats_
 
 
-# jekyll-octopod library / gem and command line tool - publish your own radio talk shows; podcast extension for building static websites with Jekyll
+# jekyll-octopod library / gem and command line tool - Publish Your Own Radio Talk Shows; Podcast Extension for Building (Static) Websites with Jekyll
 
 github: [jekyll-octopod/jekyll-octopod](https://github.com/jekyll-octopod/jekyll-octopod),
 rubygems: [jekyll-octopod](https://rubygems.org/gems/jekyll-octopod),
@@ -107,7 +107,6 @@ $ octopod episode --title "Why I <3 Octopod"
 will generate you a template called **YYYY-MM-DD-why-i-_3-octopod.md** (YYYY-MM-DD represents the current date) in your `_posts` subdirectory. When you open it in your text editor you'll see something like this:
 
 ``` yaml
-{% raw %}
 ---
 title: Why I <3 Octopod
 subtitle: A Subtle Subtitle
@@ -133,7 +132,6 @@ posts-dir: "/path/to/post/dir" # default: '_posts'
 ## Shownotes and Links
 
 * Note
-{% endraw %}
 ```
 
 The part between the "---" and the "---" is the [YAML front matter](http://jekyllrb.com/docs/frontmatter/). 
