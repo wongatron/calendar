@@ -260,4 +260,4 @@ Live podcast radio talk shows include:
 - [Aua-uff-Code!](https://aua-uff-co.de) (in German)
 - [Lieblings-Plätzchen](http://www.lieblings-plaetzchen.com) (in German)
 - [Swiss-Sided Dice](https://swiss-sided-dice.ch)
-- and some more - You! :-)
+- and some more - you! :-)
