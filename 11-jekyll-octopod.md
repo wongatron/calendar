@@ -1,4 +1,4 @@
-_Podcast Web Feeds with RSS Enclosures and JSON Feeds Attachments in the OGG, MP3 or M4A Audio Formats_
+_Podcast Web Feeds with RSS Enclosures and JSON Feed Attachments in the OGG, MP3 or M4A Audio Formats_
 
 
 # jekyll-octopod library / gem and command line tool - Publish Your Own Radio Talk Shows; Podcast Extension for Building (Static) Websites with Jekyll
