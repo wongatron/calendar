@@ -249,3 +249,13 @@ command inherits most of its functionality.
 
 If there is an error when building the site, using the ```-t``` option prints 
 out the full stack trace, which can be helpful in debugging and improves bug reports.
+
+
+
+## Appendix: Real World Live Podcast Radio Talk Show Examples
+
+- [Drei Schweinehunde](https://3-schweinehun.de) (in German)
+- [Aua-uff-Code!](https://aua-uff-co.de) (in German)
+- [Lieblings-Plätzchen](http://www.lieblings-plaetzchen.com) (in German)
+- [Swiss-Sided Dice](https://swiss-sided-dice.ch)
+- and some more - You! :-)
