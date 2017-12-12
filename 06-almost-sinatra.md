@@ -4,7 +4,8 @@ _Six lines of almost sinatra "unobfuscated" and bundled up for easy (re)use_
 # almost-sinatra library / gem - Build Your Own Webframework From Scratch with Rack and Tilt in Less Than Ten Lines
 
 github: [rubylibs/almost-sinatra](https://github.com/rubylibs/almost-sinatra), 
-rubygems: [almost-sinatra](https://rubygems.org/gems/almost-sinatra)
+rubygems: [almost-sinatra](https://rubygems.org/gems/almost-sinatra) ++
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7hwxtf/day_6_ruby_advent_calendar_2017_almostsinatra/)
 
 ## What's Sinatra?
 
