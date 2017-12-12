@@ -5,7 +5,8 @@ pluto library / gem and command line tool - Auto-Build Web Pages From Published 
 
 
 github: [feedreader/pluto](https://github.com/feedreader/pluto),
-rubygems: [pluto](https://rubygems.org/gems/pluto)
+rubygems: [pluto](https://rubygems.org/gems/pluto) --
+[comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7j9jaz/day_12_ruby_advent_calendar_2017_autobuild_web/)
 
 
 
