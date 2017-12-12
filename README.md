@@ -16,13 +16,13 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 9 - hexapdf**](09-hexapdf.md) - Read and write PDF documents; start from zero or merge, extract, optimize and much more. Written by Thomas Leithner  {% avatar gettalong size=20 %}  
 - [**Day 10 - feedtxt**](10-feedtxt.md) - Read Feed.TXT - feeds in text (unicode); publish & share posts, articles, podcasts, 'n' more
 - [**Day 11 - jekyll-octopod**](11-jekyll-octopod.md) - Publish your own radio talk shows; podcast extension for building (static) websites with Jekyll; incl. podcast web feeds with RSS enclosures and JSON Feed attachments in the OGG, MP3 or M4A audio formats. Written by Stefan Haslinger {% avatar haslinger size=20 %}
+- [**Day 12- pluto**](12-pluto.md) - Auto-build web pages from published web feeds; planet (static) website generator
 
 
 <!-- break -->
 
 Upcoming
 
-- Day 12
 - Day 13
 - Day 14
 - Day 15
