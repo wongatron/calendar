@@ -4,7 +4,8 @@ _The Future of Online News - The Future of Facebook & Co - Web Feeds, Web Feeds,
 # feedparser library / gem - Read Web Feeds in XML, HTML, JSON, TXT and More; Build Your Own News Reader from Scratch in Twenty Lines
 
 github: [feedparser/feedparser](https://github.com/feedparser/feedparser), 
-rubygems: [feedparser](https://rubygems.org/gems/feedparser)
+rubygems: [feedparser](https://rubygems.org/gems/feedparser) ++
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7ih89q/day_8_ruby_advent_calendar_2017_feedparser_read/)
 
 
 
