@@ -72,7 +72,7 @@ Open up `planet.html` to see your planet web page. Voila!
 Don't like the look and feel of the built-in standard blank theme / template?
 Use a different planet theme or design your own.
 
-See the ["Planet Templates"](https://github.com/planet-templates) site for more free themes / templates including:
+See the [Planet Templates](https://github.com/planet-templates) site for more free themes / templates including:
 
 - Blank - default templates; [more »](https://github.com/planet-templates/planet-blank)
 - News - 'river of news' style templates; [more »](https://github.com/planet-templates/planet-news)
