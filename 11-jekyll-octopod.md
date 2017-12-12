@@ -5,7 +5,8 @@ _Podcast Web Feeds with RSS Enclosures and JSON Feed Attachments in the OGG, MP3
 
 github: [jekyll-octopod/jekyll-octopod](https://github.com/jekyll-octopod/jekyll-octopod),
 rubygems: [jekyll-octopod](https://rubygems.org/gems/jekyll-octopod),
-twitter: [jekyll_octopod](https://twitter.com/jekyll_octopod)
+twitter: [jekyll_octopod](https://twitter.com/jekyll_octopod) ++
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7j1vag/day_11_ruby_advent_calendar_2017_jekyll_octopod/)
 
 
 Written by Stefan Haslinger  {% avatar haslinger %}
