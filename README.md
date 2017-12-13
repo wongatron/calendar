@@ -17,13 +17,13 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 10 - feedtxt**](10-feedtxt.md) - Read Feed.TXT - feeds in text (unicode); publish & share posts, articles, podcasts, 'n' more
 - [**Day 11 - jekyll-octopod**](11-jekyll-octopod.md) - Publish your own radio talk shows; podcast extension for building (static) websites with Jekyll; incl. podcast web feeds with RSS enclosures and JSON Feed attachments in the OGG, MP3 or M4A audio formats. Written by Stefan Haslinger {% avatar haslinger size=20 %}
 - [**Day 12 - pluto**](12-pluto.md) - Auto-build web pages from published web feeds; planet (static) website generator
+- [**Day 13 - schemadoc**](13-schemadoc.md) - Auto-generate your database schema documentation for tables, columns, etc.; use your own (static) themes or add sections and much more
 
 
 <!-- break -->
 
 Upcoming
 
-- Day 13
 - Day 14
 - Day 15
 - Day 16
