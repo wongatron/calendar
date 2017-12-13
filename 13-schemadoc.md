@@ -1,6 +1,5 @@
 
-# schemadoc library / gem and command line tool - Auto-generate your database schema documentation for tables, columns, etc.;
-use your own themes or add sections and much more.
+# schemadoc library / gem and command line tool - Auto-generate your database schema documentation for tables, columns, etc.; use your own themes or add sections and much more
 
 
 github: [schemadoc/schemadoc](https://github.com/schemadoc/schemadoc),
