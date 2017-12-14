@@ -12,7 +12,7 @@ more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7jrqh
 
 Hoe is a library / gem that bundles ready-to-use rake tasks
 to help you build, package and publish your own gems. 
-Thanks to [Ryan Davis](https://github.com/zenspider) {% avatar zenspider size=20 %} 
+Thanks to [Ryan Davis](https://rubygems.org/profiles/zenspider) {% avatar zenspider size=20 %} 
 and friends (from [Seattle.rb](http://www.seattlerb.org/)) 
 for polishing the gem all those years  - more than 100+  releases - leading to today's version 3.16.
 
