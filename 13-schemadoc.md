@@ -1,9 +1,12 @@
+_Connects with ActiveRecord works with SQLite, PostgreSQL, MySQL, MariaDB, ..._
 
-# schemadoc library / gem and command line tool - Auto-generate your database schema documentation for tables, columns, etc.; use your own themes or add sections and much more
+# schemadoc library / gem and command line tool - Auto-generate your SQL database schema documentation for tables, columns, symbols A-Z, etc; use your own (static) jekyll themes and much more
 
 
 github: [schemadoc/schemadoc](https://github.com/schemadoc/schemadoc),
-rubygems: [schemadoc](https://rubygems.org/gems/schemadoc),
+rubygems: [schemadoc](https://rubygems.org/gems/schemadoc) ++
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7jnkdc/day_13_ruby_advent_calendar_2017_schemadoc/)
+
 
 
 ## What's schemadoc?
@@ -11,6 +14,27 @@ rubygems: [schemadoc](https://rubygems.org/gems/schemadoc),
 The schemadoc gem includes a ready-to-use command line tool named - surprise,
 surprise - schemadoc that lets you auto-generate your database schema documentation
 for tables, columns, and more.
+
+Try:
+
+```
+$ schemadoc --help
+```
+
+resulting in:
+
+```
+schemadoc 1.0.0 - Lets you document your database tables, columns, etc.
+
+Usage: schemadoc [options]
+    -o, --output PATH            Output path (default is '.')
+    -v, --verbose                Show debug trace
+
+Examples:
+  schemadoc                # defaults to ./schemadoc.yml
+  schemadoc football.yml
+```
+
 
 **Overview.** The schemadoc tool connects to your database (e.g. SQLite, PostgreSQL, etc.)
 and writes out the schema info in `database.json`
@@ -78,6 +102,7 @@ site theme (template pack) and let Jekyll (or GitHub Pages) do the rest.
 
 **Examples in the real world.**  See the [football.db](http://openfootball.github.io/schema/)
 or [beer.db](http://openbeer.github.io/schema/) for live examples.
+
 
 
 ## Getting Started w/ schemadoc
