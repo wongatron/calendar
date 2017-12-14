@@ -18,13 +18,13 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 11 - jekyll-octopod**](11-jekyll-octopod.md) - Publish your own radio talk shows; podcast extension for building (static) websites with Jekyll; incl. podcast web feeds with RSS enclosures and JSON Feed attachments in the OGG, MP3 or M4A audio formats. Written by Stefan Haslinger {% avatar haslinger size=20 %}
 - [**Day 12 - pluto**](12-pluto.md) - Auto-build web pages from published web feeds; planet (static) website generator
 - [**Day 13 - schemadoc**](13-schemadoc.md) - Auto-generate your SQL database schema documentation for tables, columns, symbols A-Z, etc; use your own (static) themes; connects w/ ActiveRecord (SQLite, PostgreSQL, ...) and much more
+- [**Day 14 - hoe**](14-hoe.md) - Build, package and publish gems with hoe; use build scripts with ready-to-use rake (ruby make) tasks; 
+automate, automate, automate
 
-
-<!-- break -->
 
 Upcoming
 
-- Day 14
+
 - Day 15
 - Day 16
 - Day 17
