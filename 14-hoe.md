@@ -5,7 +5,7 @@ _Automate, Automate, Automate_
 
 github: [seattlerb/hoe](https://github.com/seattlerb/hoe),
 rubygems: [hoe](https://rubygems.org/gems/hoe) ++
-more: [comments on reddit, please!]()
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7jrqhz/day_14_ruby_advent_calendar_2017_hoe_build/)
 
 
 ## What's Hoe? 
