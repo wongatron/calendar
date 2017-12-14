@@ -11,7 +11,7 @@ more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7jnkd
 
 ## What's schemadoc?
 
-The schemadoc gem includes a ready-to-use command line tool named - surprise,
+The schemadoc library / gem includes a ready-to-use command line tool named - surprise,
 surprise - schemadoc that lets you auto-generate your database schema documentation
 for tables, columns, and more.
 
