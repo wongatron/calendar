@@ -47,6 +47,8 @@ And many more
 >
 > -- [Torsten Rüger](https://github.com/dancinglightning) {% avatar dancinglightning size=20 %}
 
+<!--
+    not heard back so far
 [**moneta**](https://github.com/minad/moneta), a unified interface to key/value stores 
 
 > Moneta provides a standard interface for interacting with various
@@ -54,7 +56,7 @@ And many more
 > It's kinda like Tilt, but for key-value stores.
 >
 > -- [Arnaud Berthomier](https://github.com/oz) {% avatar oz size=20 %} 
-
+-->
 
 
 
