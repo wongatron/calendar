@@ -9,7 +9,7 @@ twitter: [jekyll_octopod](https://twitter.com/jekyll_octopod) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7j1vag/day_11_ruby_advent_calendar_2017_jekyll_octopod/)
 
 
-Written by Stefan Haslinger  {% avatar haslinger %}
+Written by [Stefan Haslinger](https://rubygems.org/profiles/informatom)  {% avatar haslinger %}
 
 
 Octopod is a podcast publishing extension that lets you build
