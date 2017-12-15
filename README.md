@@ -13,7 +13,7 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 6 - almost-sinatra**](06-almost-sinatra.md) - Build your own webframework from scratch with Rack and Tilt in less than ten lines; six lines of Almost Sinatra "unobfuscated" and bundled up for easy (re)use
 - [**Day 7 - webservice**](07-webservice.md) - Script HTTP JSON APIs (web services) in classy Sinatra 2.0-style get / post methods with Mustermann 1.0 route / url pattern matching; load (micro) web services at-runtime and more
 - [**Day 8 - feedparser**](08-feedparser.md) - Read web feeds in XML, HTML, JSON, TXT and more; build your own news reader from scratch in twenty lines
-- [**Day 9 - hexapdf**](09-hexapdf.md) - Read and write PDF documents; start from zero or merge, extract, optimize and much more. Written by [Thomas Leithner](https://rubygems.org/profiles/gettalong)  {% avatar gettalong size=20 %}  
+- [**Day 9 - hexapdf**](09-hexapdf.md) - Read and write PDF documents; start from zero or merge, extract, optimize and much more. Written by [Thomas Leitner](https://rubygems.org/profiles/gettalong)  {% avatar gettalong size=20 %}  
 - [**Day 10 - feedtxt**](10-feedtxt.md) - Read Feed.TXT - feeds in text (unicode); publish & share posts, articles, podcasts, 'n' more
 - [**Day 11 - jekyll-octopod**](11-jekyll-octopod.md) - Publish your own radio talk shows; podcast extension for building (static) websites with Jekyll; incl. podcast web feeds with RSS enclosures and JSON Feed attachments in the OGG, MP3 or M4A audio formats. Written by [Stefan Haslinger](https://rubygems.org/profiles/informatom) {% avatar haslinger size=20 %}
 - [**Day 12 - pluto**](12-pluto.md) - Auto-build web pages from published web feeds; planet (static) website generator
