@@ -81,7 +81,7 @@ and more than 10 million downloads.
 
 ## Usage
 
-Converting your wiki-style plain text markup
+Converting your plain text markup
 to hypertext using kramdown is as easy as:
 
 ``` ruby
@@ -188,9 +188,9 @@ resulting in:
 Command line options:
 
     -i, --input ARG
-          Specify the input format: kramdown (default), html, GFM or markdown
+          Specify the input format: kramdown, github flavored markdown (GFM) or markdown
     -o, --output ARG
-          Specify one or more output formats separated by commas: html (default), kramdown, latex, pdf or remove_html_tags
+          Specify one or more output formats: html or latex
     -v, --version
           Show the version of kramdown
     -h, --help
@@ -220,9 +220,6 @@ kramdown options:
         --[no-]parse-span-html
           Process kramdown syntax in span HTML tags
 
-        --[no-]html-to-native
-          Convert HTML elements to native elements
-
         --link-defs ARG
           Pre-defines link definitions
 
@@ -240,12 +237,6 @@ kramdown options:
 
         --smart-quotes ARG
           Defines the HTML entity names or code points for smart quote output
-
-        --[no-]remove-block-html-tags
-          Remove block HTML tags
-
-        --[no-]remove-span-html-tags
-          Remove span HTML tags
 
         --header-offset ARG
           Sets the output offset for headers
