@@ -103,7 +103,7 @@ Kramdown::Document.new( '¡Barça, Barça, Baaarça!' ).to_latex
 
 ## Let's create another static site generator in five minutes
 
-First lets create a new ruby script and
+First lets create a new script and
 let's add the `kramdown` library
 plus the `find` standard library module to help us with finding files. Example:
 
@@ -257,5 +257,5 @@ kramdown options:
           Set the math engine options
 ```
 
-Yes, it's well documented  - help output shortend :-). Welcome to the wonders of `kramdown`
+Yes, it's well documented  - help output shortend :-). Welcome to the wonders of kramdown
 and the future of writing structured documents in plain text with formatting conventions.
