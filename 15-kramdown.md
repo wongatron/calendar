@@ -147,9 +147,7 @@ Find.find('.') do |path|
 end
 ```
 
-That's it. Create a new markdown file. Example:
-
-`./index.md`:
+That's it. Create a new markdown file - `index.md`. Example:
 
 ```
 ## What's `football.db`?
