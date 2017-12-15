@@ -69,9 +69,9 @@ madrid,    Real Madrid|Real Madrid CF,                   RMD
 ```
 
 
-## What's `kramdown`?
+## What's Kramdown?
 
-[`kramdown`](https://github.com/gettalong/kramdown) is a library / gem and command line tool
+Kramdown is a library / gem and command line tool
 that lets you convert plain text with formatting conventions in markdown (`.md, .mkdwn, .markdown`) to hypertext (`.html`), latex (`.html`) or unix manpages too.
 Thanks to [Thomas Leitner](https://rubygems.org/profiles/gettalong) {% avatar gettalong size=20 %}
 for publishing more than 50+ releases since 2009 - leading to today's version 1.16+
