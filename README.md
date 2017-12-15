@@ -20,12 +20,11 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 13 - schemadoc**](13-schemadoc.md) - Auto-generate your SQL database schema documentation for tables, columns, symbols A-Z, etc; use your own (static) themes; connects w/ ActiveRecord (SQLite, PostgreSQL, ...) and much more
 - [**Day 14 - hoe**](14-hoe.md) - Build, package and publish gems with hoe; use build scripts with ready-to-use rake (ruby make) tasks; 
 automate, automate, automate
-
+- [**Day 15 -kramdown**](15-kramdown.md) - Turn easy-to-read and easy-to-write (structured) plain text with "lite" markup formatting conventions in markdown into web pages or latex typesetting documents
 
 Upcoming
 
 
-- Day 15
 - Day 16
 - Day 17
 - Day 18
