@@ -10,7 +10,7 @@ rubygems: [hexapdf](https://rubygems.org/gems/hexapdf) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7imh23/day_9_ruby_advent_calendar_2017_hexapdf_read_and/)
 
 
-Written by [Thomas Leithner](https://rubygems.org/profiles/gettalong)  {% avatar gettalong %}
+Written by [Thomas Leitner](https://rubygems.org/profiles/gettalong)  {% avatar gettalong %}
 
 
 
