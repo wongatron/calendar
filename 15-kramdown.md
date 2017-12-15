@@ -6,7 +6,7 @@ _The Future of Writing Structured Documents in Plain Text with "Lite" Markup For
 
 github: [gettalong/kramdown](https://github.com/gettalong/kramdown),
 rubygems: [kramdown](https://rubygems.org/gems/kramdown) ++
-more: [comments on reddit, please!]()
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7k1bq2/day_15_ruby_advent_calendar_2017_kramdown_turn/)
 
 
 ## What's Markdown?
@@ -73,7 +73,7 @@ madrid,    Real Madrid|Real Madrid CF,                   RMD
 
 [`kramdown`](https://github.com/gettalong/kramdown) is a library / gem and command line tool
 that lets you convert plain text with formatting conventions in markdown (`.md, .mkdwn, .markdown`) to hypertext (`.html`), latex (`.html`) or unix manpages too.
-Thanks to [Thomas Leitner](https://rubygems.org/profiles/gettalong) {% avatar gettalong size=20 %}  
+Thanks to [Thomas Leitner](https://rubygems.org/profiles/gettalong) {% avatar gettalong size=20 %}
 for publishing more than 50+ releases since 2009 - leading to today's version 1.16+
 and more than 10 million downloads.
 
