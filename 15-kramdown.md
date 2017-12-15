@@ -147,7 +147,7 @@ Find.find('.') do |path|
 end
 ```
 
-That's it. Create a new markdown file - `index.md`. Example:
+That's it. Create a new markdown file. Example - `index.md`:
 
 ```
 ## What's `football.db`?
@@ -255,5 +255,5 @@ kramdown options:
           Set the math engine options
 ```
 
-Yes, it's well documented  - help output shortend :-). Welcome to the wonders of kramdown
+Yes, it's well documented  - help output shortened :-). Welcome to the wonders of kramdown
 and the future of writing structured documents in plain text with formatting conventions.
