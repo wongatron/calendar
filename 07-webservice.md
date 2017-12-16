@@ -1,13 +1,15 @@
 _Get a free wiener lager, welsh red ale or kriek lambic beer delivered to your home (computer) in JSON and much much more_
 
-# webservice library / gem - Script HTTP JSON APIs (Web Services); Load (Micro) Web Services At-Runtime and More. 
+# webservice library - Script HTTP JSON APIs (Web Services); Load (Micro) Web Services At-Runtime and More.
 
-github: [rubylibs/webservice](https://github.com/rubylibs/webservice), 
-rubygems: [webservice](https://rubygems.org/gems/webservice) ++
+github: [rubylibs/webservice](https://github.com/rubylibs/webservice),
+rubygems: [webservice](https://rubygems.org/gems/webservice),
+rdoc: [webservice](http://rubydoc.info/gems/webservice) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7i5kbp/day_7_ruby_advent_calendar_2017_script_http_json/)
 
 
-## What's the webservice library / gem?
+
+## What's the webservice library?
 
 
 The webservice library lets you script HTTP JSON APIs also known as

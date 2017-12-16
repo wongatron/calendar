@@ -1,10 +1,11 @@
 _The Future of Online News - The Future of Facebook & Co - Web Feeds, Web Feeds, Web Feeds_
 
 
-# feedparser library / gem - Read Web Feeds in XML, HTML, JSON, TXT and More; Build Your Own News Reader from Scratch in Twenty Lines
+# feedparser library - Read Web Feeds in XML, HTML, JSON, TXT and More; Build Your Own News Reader from Scratch in Twenty Lines
 
-github: [feedparser/feedparser](https://github.com/feedparser/feedparser), 
-rubygems: [feedparser](https://rubygems.org/gems/feedparser) ++
+github: [feedparser/feedparser](https://github.com/feedparser/feedparser),
+rubygems: [feedparser](https://rubygems.org/gems/feedparser),
+rdoc: [feedparser](http://rubydoc.info/gems/feedparser) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7ih89q/day_8_ruby_advent_calendar_2017_feedparser_read/)
 
 
@@ -75,7 +76,7 @@ Is your content a summary? or full text?
 
 ## The State of Web Feed Formats in 2017 - XML, JSON, YAML, HTML, TXT
 
-Let's celebrate diversity! Live and let live! 
+Let's celebrate diversity! Live and let live!
 Web feed formats today in 2017 include:
 
 - RSS 2.0 (0.91, 0.92) a.k.a. Really Simple Syndication - in XML
@@ -85,13 +86,13 @@ Web feed formats today in 2017 include:
 - Microformats (h-feed/h-entry) - in HTML
 - Feed.TXT - in plain text; metadata in (simplified) YAML or JSON; Markdown
 
-And some more. 
+And some more.
 
 
 
-## What's the feedparser library / gem?
+## What's the feedparser library?
 
-One library / gem to rule them all! All your base are blong to feedparser.
+One library to rule them all! All your base are blong to feedparser.
 
 In the end all formats are just 0 and 1s or:
 
@@ -176,7 +177,7 @@ Microformats let you mark up feeds and posts in HTML with
 and friends.
 
 Note: Microformats support in feedparser is optional.
-Install and require the the [microformats gem](https://github.com/indieweb/microformats-ruby) to read
+Install and require the the [microformats library](https://github.com/indieweb/microformats-ruby) to read
 feeds in HTML with Microformats.
 
 
@@ -288,4 +289,3 @@ See the Planet Pluto feed reader family:
 
 - [Planet Pluto](https://github.com/feedreader)  - static planet website generator
 - [Planet Pluto Live](https://github.com/plutolive) - dynamic (live) planet web apps (using Sinatra, Rails, etc.)
-

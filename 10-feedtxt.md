@@ -1,15 +1,16 @@
 
 _Feed.TXT a.k.a. RSS (Really Simple Sharing) 5.0 ;-)_
 
-# feedtxt library / gem - Read Feed.TXT - Feeds in Text (Unicode) - Publish & Share Posts, Articles, Podcasts, 'n' More
+# feedtxt library - Read Feed.TXT - Feeds in Text (Unicode) - Publish & Share Posts, Articles, Podcasts, 'n' More
 
 
 github: [feedtxt/feedtxt](https://github.com/feedtxt/feedtxt),
-rubygems: [feedtxt](https://rubygems.org/gems/feedtxt) ++
+rubygems: [feedtxt](https://rubygems.org/gems/feedtxt),
+rdoc: [feedtxt](http://rubydoc.info/gems/feedtxt) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7itanb/day_10_ruby_advent_calendar_2017_feedtxt_read/)
 
 
-## What's the feedtxt library / gem?
+## What's the feedtxt library?
 
 Use `Feedtxt.parse` to read / parse feeds in text using the Feed.TXT
 format also known as RSS (Really Simple Sharing) 5.0 ;-).
@@ -207,7 +208,7 @@ item_content
 
 Note: Feed.TXT supports alternative formats / styles for meta data blocks.
 For now YAML, JSON and INI style
-are built-in and shipping with the `feedtxt` gem.
+are built-in and shipping with the `feedtxt` library.
 To use a format-specific parser use:
 
 - `Feedtxt::YAML.parse`

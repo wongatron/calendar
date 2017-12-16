@@ -1,11 +1,12 @@
 
 _The Future of Online News - The Future of Facebook & Co - Web Feeds, Web Feeds, Web Feeds_
 
-# pluto library / gem and command line tool - Auto-Build Web Pages From Published Web Feeds; Planet (Static) Website Generator
+# pluto library and command line tool - Auto-Build Web Pages From Published Web Feeds; Planet (Static) Website Generator
 
 
 github: [feedreader/pluto](https://github.com/feedreader/pluto),
-rubygems: [pluto](https://rubygems.org/gems/pluto) ++
+rubygems: [pluto](https://rubygems.org/gems/pluto),
+rdoc: [pluto](http://rubydoc.info/gems/pluto) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7j9jaz/day_12_ruby_advent_calendar_2017_autobuild_web/)
 
 

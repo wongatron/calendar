@@ -1,10 +1,11 @@
 _Podcast Web Feeds with RSS Enclosures and JSON Feed Attachments in the OGG, MP3 or M4A Audio Formats_
 
 
-# jekyll-octopod library / gem and command line tool - Publish Your Own Radio Talk Shows; Podcast Extension for Building (Static) Websites with Jekyll
+# jekyll-octopod library and command line tool - Publish Your Own Radio Talk Shows; Podcast Extension for Building (Static) Websites with Jekyll
 
 github: [jekyll-octopod/jekyll-octopod](https://github.com/jekyll-octopod/jekyll-octopod),
 rubygems: [jekyll-octopod](https://rubygems.org/gems/jekyll-octopod),
+rdoc: [jekyll-octopod](http://rubydoc.info/gems/jekyll-octopod),
 twitter: [jekyll_octopod](https://twitter.com/jekyll_octopod) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7j1vag/day_11_ruby_advent_calendar_2017_jekyll_octopod/)
 
@@ -13,9 +14,9 @@ Written by [Stefan Haslinger](https://rubygems.org/profiles/informatom)  {% avat
 
 
 Octopod is a podcast publishing extension that lets you build
-static websites with podcast (audio) web feeds 
-(with RSS enclosures and JSON Feed attachments 
-in the ogg, mp3 or m4a audio formats) 
+static websites with podcast (audio) web feeds
+(with RSS enclosures and JSON Feed attachments
+in the ogg, mp3 or m4a audio formats)
 for your radio talk shows with the Jekyll machinery.
 
 
@@ -39,7 +40,7 @@ gem 'jekyll-octopod'
 
 If it already exists, add the line
 
-``` ruby 
+``` ruby
 gem 'jekyll-octopod'
 ```
 
@@ -71,9 +72,9 @@ You should see the fully functional podcasting site like
 
 <img src="i/octopod-demo.png" width="600" alt="screenshot" />
 
-Episode 0 is a demo episode with a little bit of audio. You can 
+Episode 0 is a demo episode with a little bit of audio. You can
 listen to the nice tune
-[Jazz Comedy](http://www.bensound.com/royalty-free-music/track/jazz-comedy) 
+[Jazz Comedy](http://www.bensound.com/royalty-free-music/track/jazz-comedy)
 from Bensound using the web player.
 
 
@@ -135,9 +136,9 @@ posts-dir: "/path/to/post/dir" # default: '_posts'
 * Note
 ```
 
-The part between the "---" and the "---" is the [YAML front matter](http://jekyllrb.com/docs/frontmatter/). 
-This is where all the metadata is stored. Below the YAML frontmatter is the area (body) where you can write down your post's content (like the show notes and stuff). 
-This strange looking {% raw %}`{{ podigee_player page }}`{% endraw %} thingy is the [Liquid filter](./liquid-filters), 
+The part between the "---" and the "---" is the [YAML front matter](http://jekyllrb.com/docs/frontmatter/).
+This is where all the metadata is stored. Below the YAML frontmatter is the area (body) where you can write down your post's content (like the show notes and stuff).
+This strange looking {% raw %}`{{ podigee_player page }}`{% endraw %} thingy is the [Liquid filter](./liquid-filters),
 which represents the iframe where the web player will be included later.
 
 When all this work is done you are ready to take a first look.  
@@ -153,7 +154,7 @@ Since `localhost:4000` is the default, a shorter command with the same result is
 $ octopod s[erve]
 ```
 
-If everything looks good, you can generate the site with the proper url from your configuration. 
+If everything looks good, you can generate the site with the proper url from your configuration.
 *Warning*: Don't upload the `_site` subdirectory after serving it locally, as all links will assume running on `localhost` and this will cause issues!
 
 To build your site use
@@ -168,7 +169,7 @@ And deploy it to your server:
 $ octopod deploy
 ```
 
-*Warning*: The Rsync settings in your `_config.yml` are mandatory for this last step. 
+*Warning*: The Rsync settings in your `_config.yml` are mandatory for this last step.
 If you don't wish to use rsync, uploading the website from the `_site` subdirectory via FTP or whichever tool you prefer works just fine.
 
 
@@ -244,11 +245,11 @@ For ```octopod episode```, the following options are available to override defau
 -t, --title [TEXT]
 ```
 
-All derived Jekyll command line tasks can be found in Jekyll's 
-[Usage Documentation](http://jekyllrb.com/docs/usage/), from which the octopod 
+All derived Jekyll command line tasks can be found in Jekyll's
+[Usage Documentation](http://jekyllrb.com/docs/usage/), from which the octopod
 command inherits most of its functionality.
 
-If there is an error when building the site, using the ```-t``` option prints 
+If there is an error when building the site, using the ```-t``` option prints
 out the full stack trace, which can be helpful in debugging and improves bug reports.
 
 

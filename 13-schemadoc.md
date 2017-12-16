@@ -1,17 +1,18 @@
 _Connects with ActiveRecord works with SQLite, PostgreSQL, MySQL, MariaDB, ..._
 
-# schemadoc library / gem and command line tool - Auto-generate your SQL database schema documentation for tables, columns, symbols A-Z, etc; use your own (static) jekyll themes and much more
+# schemadoc library and command line tool - Auto-generate your SQL database schema documentation for tables, columns, symbols A-Z, etc; use your own (static) jekyll themes and much more
 
 
 github: [schemadoc/schemadoc](https://github.com/schemadoc/schemadoc),
-rubygems: [schemadoc](https://rubygems.org/gems/schemadoc) ++
+rubygems: [schemadoc](https://rubygems.org/gems/schemadoc),
+rdoc: [schemadoc](http://rubydoc.info/gems/schemadoc) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7jnkdc/day_13_ruby_advent_calendar_2017_schemadoc/)
 
 
 
 ## What's schemadoc?
 
-The schemadoc library / gem includes a ready-to-use command line tool named - surprise,
+The schemadoc library includes a ready-to-use command line tool named - surprise,
 surprise - schemadoc that lets you auto-generate your database schema documentation
 for tables, columns, and more.
 
@@ -111,12 +112,12 @@ Let's document the football.db SQLite version in three steps:
 
 - Step 1: Let's create the football.db
 - Step 2: Let's write out the schema info in JSON
-- Step 3: Let's generate a static schema documentation site 
+- Step 3: Let's generate a static schema documentation site
 
 
 ### Step 1: Let's create the football.db
 
-First let's create the football.db itself. Pull in the `sportdb-models` gem
+First let's create the football.db itself. Pull in the `sportdb-models` library
 and use the built-in "auto-migrate" method `SportDb.create_all` that will create all database tables.
 Example:
 
@@ -181,7 +182,7 @@ world:
     - names
     - langs
     - usages
-    
+
 ## works tables
 
 works:
@@ -206,7 +207,7 @@ and you will end-up with two JSON files, that is, `database.json` and `symbols.j
 ### Step 3: Let's generate a static schema documentation site
 
 Get a copy of the [`schemadoc/schemadoc-theme`](https://github.com/schemadoc/schemadoc-theme) static website theme
-and drop (copy) the two JSON files, that is, `database.json` and `symbols.json` 
+and drop (copy) the two JSON files, that is, `database.json` and `symbols.json`
 into the `_data/` folder. Change the site settings in `_config.yml` and run:
 
 ```
@@ -215,4 +216,3 @@ $ jekyll build
 
 That's it. Open up in your browser the `./_site/index.html` page.
 Enjoy your databasse schema documentation.
-

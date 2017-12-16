@@ -1,11 +1,12 @@
 
 _The Future of Writing Structured Documents in Plain Text with "Lite" Markup Formatting Conventions in Markdown for Paragraphs, Headings, Bullet Lists, Numbered Lists, Code Blocks, Links and Much More_
 
-# kramdown library / gem and command line tool - Turn Easy-To-Read and Easy-To-Write (Structured) Plain Text with "Lite" Markup Formatting Conventions in Markdown into Web Pages or LaTeX Typesetting Documents
+# kramdown library and command line tool - Turn Easy-To-Read and Easy-To-Write (Structured) Plain Text with "Lite" Markup Formatting Conventions in Markdown into Web Pages or LaTeX Typesetting Documents
 
 
 github: [gettalong/kramdown](https://github.com/gettalong/kramdown),
-rubygems: [kramdown](https://rubygems.org/gems/kramdown) ++
+rubygems: [kramdown](https://rubygems.org/gems/kramdown),
+rdoc: [kramdown](http://rubydoc.info/gems/kramdown) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7k1bq2/day_15_ruby_advent_calendar_2017_kramdown_turn/)
 
 
@@ -71,7 +72,7 @@ madrid,    Real Madrid|Real Madrid CF,                   RMD
 
 ## What's Kramdown?
 
-Kramdown is a library / gem and command line tool
+Kramdown is a library and command line tool
 that lets you convert plain text with formatting conventions in markdown (`.md, .mkdwn, .markdown`) to hypertext (`.html`), latex (`.html`) or unix manpages too.
 Thanks to [Thomas Leitner](https://rubygems.org/profiles/gettalong) {% avatar gettalong size=20 %}
 for publishing more than 50+ releases since 2009 - leading to today's version 1.16+

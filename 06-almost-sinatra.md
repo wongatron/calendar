@@ -1,11 +1,13 @@
 
-_Six lines of almost sinatra "unobfuscated" and bundled up for easy (re)use_ 
+_Six lines of almost sinatra "unobfuscated" and bundled up for easy (re)use_
 
-# almost-sinatra library / gem - Build Your Own Webframework From Scratch with Rack and Tilt in Less Than Ten Lines
+# almost-sinatra library - Build Your Own Webframework From Scratch with Rack and Tilt in Less Than Ten Lines
 
-github: [rubylibs/almost-sinatra](https://github.com/rubylibs/almost-sinatra), 
-rubygems: [almost-sinatra](https://rubygems.org/gems/almost-sinatra) ++
+github: [rubylibs/almost-sinatra](https://github.com/rubylibs/almost-sinatra),
+rubygems: [almost-sinatra](https://rubygems.org/gems/almost-sinatra),
+rdoc: [almost-sinatra](http://rubydoc.info/gems/almost-sinatra) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7hwxtf/day_6_ruby_advent_calendar_2017_almostsinatra/)
+
 
 ## What's Sinatra?
 
@@ -31,7 +33,7 @@ Trivia Quiz - Q: How Many Lines of Ruby Code?
 ## What's Almost Sinatra?
 
 Sinatra refactored, only six lines now.
-Library / Gem dependencies: Tilt and Rack (like Sinatra).  
+Library dependencies: Tilt and Rack (like Sinatra).  
 A hack by [Konstantin Haase](https://github.com/rkh).
 
 
@@ -291,7 +293,7 @@ $ ruby -I ./lib ./samples/hello.rb
 - and many more
 
 
-## Real World Case Study - webservice gem - (Yet Another) HTTP JSON API (Web Service) Builder
+## Real World Case Study - webservice library - (Yet Another) HTTP JSON API (Web Service) Builder
 
 Micro "framework" for building HTTP JSON APIs (about 100 lines of code).
 Example:
@@ -311,7 +313,7 @@ end
 
 - [Decoding Almost Sinatra](https://robm.me.uk/2013/12/13/decoding-almost-sinatra.html) by Rob Miller
 - [Code Safari: Almost Sinatra, Almost Readable](http://www.sitepoint.com/code-safari-almost-sinatra-almost-readable/) by Xavier Shay
-- [tilt gem - let's build (yet another) micro web framework in less than 33 lines of code](http://planetruby.github.io/gems/tilt.html) by Gerald Bauer
+- [tilt library - let's build (yet another) micro web framework in less than 33 lines of code](http://planetruby.github.io/gems/tilt.html) by Gerald Bauer
 
 
 
@@ -330,6 +332,3 @@ end
 Date._jisx0301("hash, please")
 # => {}
 ```
-
-
-
