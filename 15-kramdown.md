@@ -260,6 +260,4 @@ Yes, it's well documented  - help output shortened :-). Welcome to the wonders o
 and the future of writing structured documents in plain text with markup formatting conventions in markdown.
 
 
-**More Kramdown Goodies**
-
-See the [Awesome Kramdown](https://github.com/mundimark/awesome-kramdown) collection / page.
+More kramdown goodies. See the [Awesome Kramdown](https://github.com/mundimark/awesome-kramdown) collection / page.
