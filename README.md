@@ -1,6 +1,6 @@
 
 
-# Ruby Advent Calendar 2017 
+# Ruby Advent Calendar 2017
 
 _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 
@@ -18,14 +18,15 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 - [**Day 11 - jekyll-octopod**](11-jekyll-octopod.md) - Publish your own radio talk shows; podcast extension for building (static) websites with Jekyll; incl. podcast web feeds with RSS enclosures and JSON Feed attachments in the OGG, MP3 or M4A audio formats. Written by [Stefan Haslinger](https://rubygems.org/profiles/informatom) {% avatar haslinger size=20 %}
 - [**Day 12 - pluto**](12-pluto.md) - Auto-build web pages from published web feeds; planet (static) website generator
 - [**Day 13 - schemadoc**](13-schemadoc.md) - Auto-generate your SQL database schema documentation for tables, columns, symbols A-Z, etc; use your own (static) themes; connects w/ ActiveRecord (SQLite, PostgreSQL, ...) and much more
-- [**Day 14 - hoe**](14-hoe.md) - Build, package and publish gems with hoe; use build scripts with ready-to-use rake (ruby make) tasks; 
+- [**Day 14 - hoe**](14-hoe.md) - Build, package and publish gems with hoe; use build scripts with ready-to-use rake (ruby make) tasks;
 automate, automate, automate
 - [**Day 15 - kramdown**](15-kramdown.md) - Turn easy-to-read and easy-to-write (structured) plain text with "lite" markup formatting conventions in markdown into web pages or latex typesetting documents
+- [**Day 16 - gli**](16-gli.md) - Add Git-like interfaces (GLI) to your awesome command-line tools;  talk to your Computer (bots) in the shell in text; commands, commands, commands
+
 
 Upcoming
 
 
-- Day 16
 - Day 17
 - Day 18
 - Day 19
@@ -41,20 +42,20 @@ And many more
 
 [**metasm**](https://github.com/jjyg/metasm), an assembly manipulation suite
 
-> My all time favourite piece of work that hardly anybody knows about. Metasm compiles / decompiles 
+> My all time favourite piece of work that hardly anybody knows about. Metasm compiles / decompiles
 > about a dozen cpus and a handful of binary formats. In 100% ruby.
 >
 > -- [Torsten Rüger](https://github.com/dancinglightning) {% avatar dancinglightning size=20 %}
 
 <!--
     not heard back so far
-[**moneta**](https://github.com/minad/moneta), a unified interface to key/value stores 
+[**moneta**](https://github.com/minad/moneta), a unified interface to key/value stores
 
 > Moneta provides a standard interface for interacting with various
 > kinds of key/value stores. Moneta supports the well-known NoSQL and document based stores.
 > It's kinda like Tilt, but for key-value stores.
 >
-> -- [Arnaud Berthomier](https://github.com/oz) {% avatar oz size=20 %} 
+> -- [Arnaud Berthomier](https://github.com/oz) {% avatar oz size=20 %}
 -->
 
 
