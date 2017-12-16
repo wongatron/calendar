@@ -1,24 +1,25 @@
-# factbook library / gem - Turn the World Factbook (260+ Country Profiles) into Open Structured Data e.g JSON
+# factbook library - Turn the World Factbook (260+ Country Profiles) into Open Structured Data e.g JSON
 
 
-github: [factbook/factbook](https://github.com/factbook/factbook), 
-rubygems: [factbook](https://rubygems.org/gems/factbook) ++
+github: [factbook/factbook](https://github.com/factbook/factbook),
+rubygems: [factbook](https://rubygems.org/gems/factbook),
+rdoc: [factbook](http://rubydoc.info/gems/factbook) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7h3lsf/day_2_ruby_advent_calendar_2017_factbook_turn_the/)
 
 
 
 ## What's the World Factbook?
 
-The World Factbook [1][2] published by the United States' Central Intelligence Agency (CIA) 
+The World Factbook [1][2] published by the United States' Central Intelligence Agency (CIA)
 offers free country profiles in the public domain, that is, no copyright(s), no rights reserved.
 
 - [1] [The World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
 - [2] [Wikipedia Article: The World Factbook](http://en.wikipedia.org/wiki/The_World_Factbook)
 
 
-## What's the factbook library / gem?
+## What's the factbook library?
 
-The factbook library ships with scripts for the world factbook that let you turn web pages into open structured data 
+The factbook library ships with scripts for the world factbook that let you turn web pages into open structured data
 e.g JSON and friends. Example:
 
 
@@ -193,8 +194,6 @@ That's it. Explore the world.
 ## Bonus: Ready-To-Use Public Domain Factbook Datasets
 
 [opendatajson/factbook.json](https://github.com/opendatajson/factbook.json) - open (public domain)
-factbook country profiles in JSON for all the world's countries. 
-Note: All country profiles use the "official" two-letter GEC (formerly FIPS) codes 
+factbook country profiles in JSON for all the world's countries.
+Note: All country profiles use the "official" two-letter GEC (formerly FIPS) codes
 and NOT the ISO codes (you might be used to) e.g. au for Austria (and not at), gm for Germany (and not de), and so on.
-
-

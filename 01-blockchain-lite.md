@@ -1,10 +1,11 @@
 
-_Revolutionize the world with blockchains, blockchains, blockchains one block at a time!_ 
+_Revolutionize the world with blockchains, blockchains, blockchains one block at a time!_
 
-# blockchain-lite library / gem - Build Your Own Blockchains with Crypto Hashes
+# blockchain-lite library - Build Your Own Blockchains with Crypto Hashes
 
-github: [openblockchains/blockchain.lite.rb](https://github.com/openblockchains/blockchain.lite.rb), 
-rubygems: [blockchain-lite](https://rubygems.org/gems/blockchain-lite)  ++
+github: [openblockchains/blockchain.lite.rb](https://github.com/openblockchains/blockchain.lite.rb),
+rubygems: [blockchain-lite](https://rubygems.org/gems/blockchain-lite),
+rdoc: [blockchain-lite](http://rubydoc.info/gems/blockchain-lite)  ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7gv042/day_1_ruby_advent_calendar_2017_blockchainlite/)
 
 
@@ -133,7 +134,7 @@ class Block
 end
 ```
 
-Let's add a proof of work to the blockchain. 
+Let's add a proof of work to the blockchain.
 In the classic blockchain you have to compute a block hash that starts with leading zeros (`00`). The more leading zeros the harder (more difficult) to compute. Let's keep it easy to compute with two leading zeros (`00`), that is, 16^2 = 256 possibilites (^1,2). Three leading zeros (`000`) would be 16^3 = 4_096 possibilites and four zeros (`0000`) would be 16^4 = 65_536 and so on.
 
 (^1): 16 possibilties because it's a hex or hexadecimal or base 16 number, that is, `0` `1` `2` `3` `4` `6` `7` `8` `9` `a` (10) `b` (11) `c` (12) `d` (13) `e` (14) `f` (15).
@@ -202,7 +203,7 @@ that makes it happen. That's the magic behind the proof of work.
 
 ### Transactions
 
-Let's put the transactions from the (hyper) ledger book 
+Let's put the transactions from the (hyper) ledger book
 from [Tulips on the Blockchain!](https://github.com/openblockchains/tulips)
 on the blockchain:
 
@@ -286,4 +287,4 @@ resulting in:
  ...
 ```
 
-That's it. Now revolutionize the world with blockchains one block at a time. 
+That's it. Now revolutionize the world with blockchains one block at a time.

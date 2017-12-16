@@ -1,7 +1,8 @@
-# quik library / gem and command line tool - Quick Starter Template Script Wizard - The Missing Code Generator and Project Scaffolder for Gems, Sinatra, Jekyll & More
+# quik library and command line tool - Quick Starter Template Script Wizard - The Missing Code Generator and Project Scaffolder for Gems, Sinatra, Jekyll & More
 
 github: [quikstart/quik](https://github.com/quikstart/quik),
-rubygems: [quik](https://rubygems.org/gems/quik) ++
+rubygems: [quik](https://rubygems.org/gems/quik),
+rdoc: [quik](http://rubydoc.info/gems/quik) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7h8qw8/day_3_ruby_advent_calendar_2017_quik_quick/)
 
 
@@ -34,7 +35,7 @@ Q: How do you get started with creating a new jekyll theme?
 
 ## One Quik Starter to rule them all?
 
-Let's welcome the quik gem / library and command line tool.
+Let's welcome the quik library and command line tool.
 
 The idea:  Many starter templates / boilerplates
 are ready-to-fork GitHub repos.

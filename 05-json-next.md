@@ -3,7 +3,7 @@ _HANSON.parse, SON.parse, JSONX.parse_
 # json-next library / gem - Read Next Generation JSON Versions (HanSON, SON, JSONX/JSON11, etc.) with Comments, Unquoted Keys, Multi-Line Strings, Trailing Commas, Optional Commas, and More
 
 
-github: [jsonii/json-next](https://github.com/jsonii/json-next), 
+github: [json-next/json-next](https://github.com/json-next/json-next),
 rubygems: [json-next](https://rubygems.org/gems/json-next) ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7hoid9/day_5_ruby_advent_calendar_2017_jsonnext_read/)
 
@@ -11,8 +11,8 @@ more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7hoid
 
 1. Comments, Comments, Comments
 2. Unquoted Keys
-3. Multi-Line Strings 
-   - a) Folded -- Folds Newlines 
+3. Multi-Line Strings
+   - a) Folded -- Folds Newlines
    - b) Unfolded
 4. Trailing Commas in Arrays and Objects
 
@@ -22,7 +22,7 @@ More:
 - Date/DateTime/Timestamp Type
 - Optional Commas
 - Optional Unquoted String Values
-- "Raw" String (e.g. `''` instead of `""`) 
+- "Raw" String (e.g. `''` instead of `""`)
   - No need to escape `\` or `"` etc. To escape `'` use `'''` e.g. `''''Henry's Themes'''`
 - More Data Types (`set`, `map`, `symbol`, etc.)
 - And much more
@@ -38,7 +38,7 @@ _Fixing JSON - Comments, Please!_
 
 <!-- break -->
 
-> XML already does everything JSON does! And there's no way to differentiate between nodes and attributes! 
+> XML already does everything JSON does! And there's no way to differentiate between nodes and attributes!
 > And there are no namespaces! And no schemas! What's the point of JSON?
 >
 > -- Anonymous
@@ -415,4 +415,3 @@ resulting in:
 ## Bonus: More JSON Formats
 
 See the [Awesome JSON (What's Next?)](https://github.com/jsonii/awesome-json-next) collection / page.
-
