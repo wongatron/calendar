@@ -172,7 +172,7 @@ $ ruby ./sitegen.rb
 That's it. Open up the web page `./_site/index.html` in your browser.
 
 
-## Bonus: `kramdown` Command Line Tool
+## Bonus - `kramdown` Command Line Tool
 
 Note: The `kramdown` library ships with a command line tool named - suprise,
 suprise - `kramdown`. Type in your shell:
@@ -257,4 +257,7 @@ kramdown options:
 ```
 
 Yes, it's well documented  - help output shortened :-). Welcome to the wonders of kramdown
-and the future of writing structured documents in plain text with formatting conventions.
+and the future of writing structured documents in plain text with markup formatting conventions in markdown.
+
+
+More kramdown goodies. See the [Awesome Kramdown](https://github.com/mundimark/awesome-kramdown) collection / page.
