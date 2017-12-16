@@ -172,7 +172,7 @@ $ ruby ./sitegen.rb
 That's it. Open up the web page `./_site/index.html` in your browser.
 
 
-## Bonus - `kramdown` Command Line Tool
+## Bonus: `kramdown` Command Line Tool
 
 Note: The `kramdown` library ships with a command line tool named - suprise,
 suprise - `kramdown`. Type in your shell:
