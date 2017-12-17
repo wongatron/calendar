@@ -9,7 +9,7 @@ more: [comments on reddit, please!]()
 
 
 
-**Magic.**  
+**Magic.**
 ActiveRecord models can be as simple as:
 
 ``` ruby
@@ -32,7 +32,7 @@ By default ActiveRecord models require no information on the database tables wra
 the class `Beer` (singular noun), for example, gets mapped to the table `beers` (plural noun)
 and `Brewery` to `breweries` and so on.
 
-**Best of both worlds.**  
+**Best of both worlds.**
 Less code is great and it's easy to update the model - just update the table -
 there are no out-of-date setter and getters duplicated in the model, for example.
 If you want the best of both worlds - you can always add the table columns to your models as comments. 
@@ -106,18 +106,17 @@ If all the schema information is already stored in the database - why not automa
 
 ## What's the annotate library?
 
-Let's thank [Dave Thomas](https://rubygems.org/profiles/pragdave1) {% avatar pragdave size=20 %}  
-and friends 
+Let's thank [Dave Thomas](https://rubygems.org/profiles/pragdave1) {% avatar pragdave size=20 %}
+and friends
 who created the first annotate-models script back in 2006 as a Rails plugin
-and let's thank [Cuong Tran](https://rubygems.org/profiles/ctran) {% avatar ctran size=20 %}, 
-[Alex Chaffee](https://rubygems.org/profiles/alexch) {% avatar alexch size=20 %} and friends 
+and let's thank [Cuong Tran](https://rubygems.org/profiles/ctran) {% avatar ctran size=20 %},
+[Alex Chaffee](https://rubygems.org/profiles/alexch) {% avatar alexch size=20 %} and friends
 who continue the tradition with a modern up-to-date annotate library
 with more than 20+ releases since 2009 and 5+ million downloads.
 
 
 
-**Not just for Rails.**  
-
+**Not just for Rails.**
 Out-of-the-box the annotate library includes
 a command line tool named - surprise, surprise - annotate. Let's try it:
 
