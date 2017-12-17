@@ -4,7 +4,7 @@
 
 github: [ctran/annotate_models](https://github.com/ctran/annotate_models),
 rubygems: [annotate](https://rubygems.org/gems/annotate),
-rdoc: [annotate](rubydoc.info/gems/annotate)  ++
+rdoc: [annotate](http://rubydoc.info/gems/annotate)  ++
 more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7kehho/day_17_ruby_advent_calendar_2017_annotate/)
 
 
