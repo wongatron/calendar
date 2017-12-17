@@ -22,7 +22,7 @@ _25 Days of Ruby Gems / Libraries, December 1 - December 25_
 automate, automate, automate
 - [**Day 15 - kramdown**](15-kramdown.md) - Turn easy-to-read and easy-to-write (structured) plain text with "lite" markup formatting conventions in markdown into web pages or latex typesetting documents
 - [**Day 16 - gli**](16-gli.md) - Add Git-like interfaces (GLI) to your awesome command-line tools;  talk to your computer (bots) in the shell in text; commands, commands, commands
-- [**Day 17 - annotate**](17-annotate.md) - Annotate your ActiveRecord models with comments about your database table structure
+- [**Day 17 - annotate**](17-annotate.md) - Annotate your ActiveRecord models with comments about your database table structure (SQLite, PostgreSQL, etc.)
 
 
 Upcoming
