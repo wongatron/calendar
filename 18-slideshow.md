@@ -146,9 +146,8 @@ and hit the space bar or the right arrow, down arrow or page down key to flip th
 
 The [impress.js](https://github.com/impress/impress.js) package by Bartek Szopka (aka bartaz)
 bundled up into a slideshow (S9) template pack
-lets you author your slides
-in a wiki-style markup language (that is, Markdown) plus
-lets you use text filters and helpers for adding comments, macros,
+lets you write your slides
+in text with formmating conventions in markdown and lets you use filters and helpers for adding comments, macros,
 includes, syntax highlighters and much more.
 
 Note, the package is configured to use the following headers in `slides.html`:
@@ -159,11 +158,11 @@ Note, the package is configured to use the following headers in `slides.html`:
 
 ### Try It Yourself - How To Use the impress.js Template Pack
 
-If you want to try it yourself, install (fetch) the new template pack. Issue the command:
+If you want to try it yourself, install (fetch) the new template pack. Type the command:
 
     $ slideshow install impress.js
 
-Or as an alternative clone the template pack using `git`. Issue the commands:
+Or as an alternative clone the template pack using `git`. Type the commands:
 
     $ cd ~/.slideshow/templates
     $ git clone https://github.com/slideshow-templates/slideshow-impress.js
@@ -177,7 +176,7 @@ Listing something like:
     Installed templates include:
        impress.js (~/.slideshow/templates/impress.js/impress.js.txt)
 
-Tip: To get started use the included quick starter sample. Issue the command:
+Tip: To get started use the included quick starter sample. Type the command:
 
     $ slideshow new -t impress.js
 
