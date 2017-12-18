@@ -7,7 +7,7 @@ _Free Web Alternative to PowerPoint and KeyNote - Write Your Talks in (Structure
 github: [slideshow-s9/slideshow](https://github.com/slideshow-s9/slideshow),
 rubygems: [slideshow](https://rubygems.org/gems/slideshow),
 rdoc: [slideshow](http://rubydoc.info/gems/slideshow) ++
-more: [comments on reddit, please!]()
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7kmlho/day_18_ruby_advent_calendar_2017_slideshow_s9/)
 
 
 
