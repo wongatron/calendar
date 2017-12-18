@@ -74,7 +74,7 @@ end
 
 or
 
-```
+``` ruby
 # == Schema Information
 #
 # Table name: breweries
