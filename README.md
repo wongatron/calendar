@@ -23,12 +23,11 @@ automate, automate, automate
 - [**Day 15 - kramdown**](15-kramdown.md) - Turn easy-to-read and easy-to-write (structured) plain text with "lite" markup formatting conventions in markdown into web pages or latex typesetting documents
 - [**Day 16 - gli**](16-gli.md) - Add Git-like interfaces (GLI) to your awesome command-line tools;  talk to your computer (bots) in the shell in text; commands, commands, commands
 - [**Day 17 - annotate**](17-annotate.md) - Annotate your ActiveRecord models with comments about your database table structure (SQLite, PostgreSQL, etc.)
+- [**Day 18 - slideshow**](18-slideshow.md) - Write your slides / talks / presentations in text with formatting conventions in markdown - kramdown really ;-); build (static) webpages w/ (jekyll-compatible) theme packs incl. Reveal.js, Bespoke.js, Impress.js, and many more
 
 
 Upcoming
 
-- Day 17
-- Day 18
 - Day 19
 - Day 20
 - Day 21
