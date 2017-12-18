@@ -27,7 +27,7 @@ A first sample talk - `sample1.text`:
 
 ```
 title:     Habits
-author:    Ruby Nakamoto
+author:    Ruby Rubens
 date:      December 18, 2017
 
 
