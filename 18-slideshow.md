@@ -13,10 +13,11 @@ more: [comments on reddit, please!]()
 
 ## What's Slideshow (S9)?
 
-A free command line tool that lets you build slideshows
+A command line tool and library that lets you build slideshows
 from your notes written in plain text with markdown formatting conventions.
-The slideshow (S9) project also collects and welcomes themes
+The slideshow (S9) project also collects and welcomes (Jekyll-compatible) themes 
 and ships "out-of-the-box" with built-in support for "loss-free" gradient vector graphics backgrounds.
+
 
 
 
