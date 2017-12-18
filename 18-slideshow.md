@@ -1,7 +1,7 @@
 
 _Free Web Alternative to PowerPoint and KeyNote - Write Your Talks in (Structured) Text - Many Theme Packs (Jekyll-Compatible) Incl. Reveal.js, Bespoke.js, Impress.js, Shower.js, S6 and More_
 
-# slideshow (s9) library and command line tool - Write Your Slides / Talks / Presentations in Text with Markdown Formatting Conventions; Build (Static) Webpages w/ (Jekyll-Compatible) Theme Packs
+# slideshow (s9) library and command line tool - Write Your Slides / Talks / Presentations in (Structured) Text with Formatting Conventions in Markdown - Kramdown, Really ;-); Build (Static) Webpages w/ (Jekyll-Compatible) Theme Packs
 
 
 github: [slideshow-s9/slideshow](https://github.com/slideshow-s9/slideshow),
@@ -14,10 +14,9 @@ more: [comments on reddit, please!]()
 ## What's Slideshow (S9)?
 
 A command line tool and library that lets you build slideshows
-from your notes written in plain text with markdown formatting conventions.
+from your notes written in plain text with formatting conventions in markdown - kramdown, really ;-) e.g. incl. tables, definition lists, footnotes, attribute lists, auto ids, and much more.
 The slideshow (S9) project also collects and welcomes (Jekyll-compatible) themes 
 and ships "out-of-the-box" with built-in support for "loss-free" gradient vector graphics backgrounds.
-
 
 
 
