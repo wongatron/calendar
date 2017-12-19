@@ -1,3 +1,4 @@
+
 <div style="float: right; background-color: #eeeeee; margin: 24px; padding: 6px; border-radius: 4px; border: solid 1px silver; font-size: 80%;">
 
   <div style="text-align: center;">
@@ -62,6 +63,14 @@
         All about Ruby 'n' cryptocurrencies (Bitcoin &amp; friends)
      </div>
      -->
+    
+    {% for event in site.data.events %}
+      <div style="padding: 4px;">
+        <a href="{{ event.url }}">{{ event.title }}</a><br>
+        {{ event.subtitle }}
+      </div>
+    {% endfor %}
+    
     <div style="padding: 4px;">
       <a href="https://rubyonice.com/2018">Ruby on Ice - Jan 26-28th, 2018</a><br>
       Conference in Tegernsee, Bavaria, Germany
@@ -88,7 +97,7 @@
     </div>
 
     <div style="padding: 4px;">
-      <a href="https://2018.bathruby.uk">Bath RubyConf - March 22nd+23rd, 2018</a><br>
+      <a href="https://2018.bathruby.uk">Bath Ruby - March 22nd+23rd, 2018</a><br>
       Conference in Bath, England, United Kingdom
     </div>
 
