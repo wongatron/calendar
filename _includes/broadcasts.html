@@ -5,43 +5,16 @@
     <b>Ruby 2.5 - Upcoming Dec 25th, 2017 - What's News?</b>
   </div>
   <div>
-    <div style="padding: 4px;">
-      <a href="https://docs.ruby-lang.org/en/trunk/NEWS.html">Ruby 2.5.0 Changes</a><br>
-      Official changes since the 2.4.0 release
-    </div>
-    <div style="padding: 4px;">
-      <a href="https://stdgems.org/2.5.0/">Standard Gems 2.5.0 - Default Gems, Bundled Gems</a><br>
-      by Jan Lelis, Idiosyncratic Ruby
-    </div>    
     
-    <div style="padding: 4px;">
-      <a href="https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/">10 New Features in Ruby 2.5</a><br>
-      by Junichi Ito, Ruby programmer @ SonicGarden.jp 
-    </div>
-    <div style="padding: 4px;">
-      <a href="https://tom-lord.github.io/10-More-New-Features-In-Ruby-2.5/">10 More New Features in Ruby 2.5</a><br>
-      by Tom Lord, Software Developer from London
-    </div>
-
-    <div style="padding: 4px;">
-      <a href="http://www.rubyguides.com/2017/11/ruby-2-5-performance/">Performance Improvements in Ruby 2.5</a><br>
-      by Jesus Castello, Ruby Guides
-    </div>
-    <div style="padding: 4px;">
-      <a href="https://mlomnicki.com/yield-self-in-ruby-25/">yield_self in Ruby 2.5</a><br>
-      by Michał Łomnicki
-    </div>
-    <div style="padding: 4px;">
-      <a href="https://mlomnicki.com/improved-stascktrace-display-in-ruby25/">Improved stacktrace display in Ruby 2.5</a><br>
-      by Michał Łomnicki
-    </div>
-    <div style="padding: 4px;">
-      <a href="http://blog.bigbinary.com/categories/Ruby-2-5">Ruby 2.5 Series</a><br>
-      by Amit Choudhary, Mohit Natoo et al @ BigBinary
-    </div>
-    
+    {% for byte in site.data.bytes %}
+      <div style="padding: 4px;">
+        <a href="{{ byte.url }}">{{ byte.title }}</a><br>
+        {{ byte.subtitle }}
+      </div>
+    {% endfor %}
+      
     <div style="padding: 4px; font-size: 80%;">
-      <a href="https://github.com/planetruby/advent2017/blob/master/_includes/broadcasts.html">Add your ruby 2.5 news byte »</a>
+      <a href="https://github.com/planetruby/advent2017/blob/master/_data/bytes.yml">Add your ruby 2.5 news byte »</a>
     </div>                            
   </div>
   
@@ -49,20 +22,6 @@
     <b>Ruby Event News</b>
   </div>
   <div>
-    <!--
-     <div style="padding: 4px;">
-      <a href="http://rubyhabits.github.io">Vienna Ruby Habits - Wed, Dec 6th</a><br>
-      Learning (and practing) Ruby &amp; friends together.
-    </div>
-     <div style="padding: 4px;">
-      <a href="https://meetup.com/vienna-rb/events/245432241/">Vienna.rb Meetup #43 - Thu, Dec 7th</a><br>
-      Blockchain! Blockchain! Blockchain!
-    </div>
-     <div style="padding: 4px;">
-      <a href="https://meetup.com/vienna-ruby-rails/events/245307127">Vienna Ruby Crypto Meetup @ RIAT - Thu, Dec 14th</a><br>
-        All about Ruby 'n' cryptocurrencies (Bitcoin &amp; friends)
-     </div>
-     -->
     
     {% for event in site.data.events %}
       <div style="padding: 4px;">
