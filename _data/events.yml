@@ -4,5 +4,44 @@
 
 - title:     "Rubyfuza - Feb 1st-3rd, 2018"
   subtitle:  "Conference in Cape Town, South Africa"
-  url:       http://www.rubyfuza.org 
+  url:        http://www.rubyfuza.org 
    
+- title:     "RubyConf India - Feb 9th+10th, 2018"
+  subtitle:  "Conference in Bengaluru, India"
+  url:        http://rubyconfindia.org
+      
+- title:     "RubyConf AU - March 8th+9th, 2018"
+  subtitle:  "Conference in Sydney, Australia"
+  url:        https://www.rubyconf.org.au/2018
+
+- title:     "RubyConf Philippines - March 15th-17th, 2018"
+  subtitle:  "Conference in Manila, Philippines"
+  url:        http://rubyconf.ph
+
+- title:     "Bath Ruby - March 22nd+23rd, 2018"
+  subtitle:  "Conference in Bath, England, United Kingdom"
+  url:        https://2018.bathruby.uk
+
+- title:     "Ruby X Elixir Conf Taiwan - April 27th+28th, 2018"
+  subtitle:  "Conference in Taipei, Taiwan"
+  url:        https://2018.rubyconf.tw
+   
+- title:     "Rubyhack - May 3rd+4th, 2018"
+  subtitle   "Conference in Salt Lake City, Utah, United States"
+  url:        http://rubyhack.com
+
+- title:     "Balkan Ruby - May 25+26th, 2018"
+  subtitle:  "Conference in Sofia, Bulgaria"
+  url:       http://balkanruby.com
+ 
+- title:     "RubyKaigi - May 31st-Jun 2nd, 2018"
+  subtitle:  "Conference in Sendai, Miyagi, Japan"
+  url:       http://rubykaigi.org/2018
+ 
+- title:     "Paris.rb XXL - Jun 28+29th, 2018"
+  subtitle:  "Conference in Paris, France"
+  url:        http://2018.rubyparis.org
+
+- title:     "European Ruby Conference (EuRuKo) 2018"
+  subtitle:  "Upcoming this summer in Vienna, Austria"
+  url:       http://euruko.org
