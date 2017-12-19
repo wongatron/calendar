@@ -1,0 +1,34 @@
+#############################
+# ruby 2.5 news bytes
+
+- title:     "Ruby 2.5.0 Changes"
+  subtitle:  "Official changes since the 2.4.0 release"
+  url:        https://docs.ruby-lang.org/en/trunk/NEWS.html
+
+- title:     "Standard Gems 2.5.0 - Default Gems, Bundled Gems"
+  subtitle:  "by Jan Lelis, Idiosyncratic Ruby"
+  url:        https://stdgems.org/2.5.0/
+
+- title:     "10 New Features in Ruby 2.5"
+  subtitle:  "by Junichi Ito, Ruby programmer @ SonicGarden.jp"
+  url:        https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/
+
+- title:     "10 More New Features in Ruby 2.5"
+  subtitle:  "by Tom Lord, Software Developer from London"
+  url:        https://tom-lord.github.io/10-More-New-Features-In-Ruby-2.5/
+     
+- title:     "Performance Improvements in Ruby 2.5"
+  subtitle:  "by Jesus Castello, Ruby Guides"
+  url:        http://www.rubyguides.com/2017/11/ruby-2-5-performance/
+      
+- title:    "yield_self in Ruby 2.5"
+  subtitle: "by Michał Łomnicki"
+  url:       https://mlomnicki.com/yield-self-in-ruby-25/
+ 
+- title:    "Improved stacktrace display in Ruby 2.5"
+  subtitle: "by Michał Łomnicki"
+  url:       https://mlomnicki.com/improved-stascktrace-display-in-ruby25/
+
+- title:    "Ruby 2.5 Series"
+  subtitle: "by Amit Choudhary, Mohit Natoo et al @ BigBinary"
+  url:       http://blog.bigbinary.com/categories/Ruby-2-5
