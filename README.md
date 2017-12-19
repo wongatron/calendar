@@ -24,11 +24,11 @@ automate, automate, automate
 - [**Day 16 - gli**](16-gli.md) - Add Git-like interfaces (GLI) to your awesome command-line tools;  talk to your computer (bots) in the shell in text; commands, commands, commands
 - [**Day 17 - annotate**](17-annotate.md) - Annotate your ActiveRecord models with comments about your database table structure (SQLite, PostgreSQL, etc.)
 - [**Day 18 - slideshow**](18-slideshow.md) - Write your slides / talks / presentations in (structured) text with formatting conventions in markdown - kramdown really ;-); build (static) webpages w/ (jekyll-compatible) theme packs incl. Reveal.js, Bespoke.js, Impress.js, and many more
+- [**Day 19 - merkletree**](19-merkletree.md) - Build your own crypto hash trees; grow your own money on trees
 
 
 Upcoming
 
-- Day 19
 - Day 20
 - Day 21
 - Day 22
