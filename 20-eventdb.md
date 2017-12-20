@@ -6,7 +6,7 @@ _Ruby Conferences from Around the World - Europe • North America • South Ame
 github: [textkit/event.db](https://github.com/textkit/event.db),
 rubygems: [eventdb](https://rubygems.org/gems/eventdb),
 rdoc: [eventdb](http://rubydoc.info/gems/eventdb) ++
-more: [comments on reddit, please!]()
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7l43g2/day_20_ruby_advent_calendar_2017_build_your_own/)
 
 
 
