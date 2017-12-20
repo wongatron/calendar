@@ -25,7 +25,7 @@ automate, automate, automate
 - [**Day 17 - annotate**](17-annotate.md) - Annotate your ActiveRecord models with comments about your database table structure (SQLite, PostgreSQL, etc.)
 - [**Day 18 - slideshow**](18-slideshow.md) - Write your slides / talks / presentations in (structured) text with formatting conventions in markdown - kramdown really ;-); build (static) webpages w/ (jekyll-compatible) theme packs incl. Reveal.js, Bespoke.js, Impress.js, and many more
 - [**Day 19 - merkletree**](19-merkletree.md) - Build your own crypto hash trees; grow your own money on trees
-- [**Day 20 - eventdb**](20-eventdb.md) - Build your own What's On / What's Up event calendar with READMEs in (structured) text; read in (awesome) ruby conferences from around the world
+- [**Day 20 - eventdb**](20-eventdb.md) - Build your own What's On / What's Up event calendar from READMEs in (structured) text; read in (awesome) ruby conferences from around the world
 
 Upcoming
 
