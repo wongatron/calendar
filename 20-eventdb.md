@@ -1,7 +1,7 @@
 
 _Ruby Conferences from Around the World - Europe • North America • South America • Asia • Africa • Pacific / Oceania_
 
-# eventdb library (and command line tools) - Build Your Own What's On / What's Up Event Calendar with READMEs in (Structured) Text
+# eventdb library (and command line tools) - Build Your Own What's On / What's Up Event Calendar from READMEs in (Structured) Text
 
 github: [textkit/event.db](https://github.com/textkit/event.db),
 rubygems: [eventdb](https://rubygems.org/gems/eventdb),
