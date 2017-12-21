@@ -26,10 +26,10 @@ automate, automate, automate
 - [**Day 18 - slideshow**](18-slideshow.md) - Write your slides / talks / presentations in (structured) text with formatting conventions in markdown - kramdown really ;-); build (static) webpages w/ (jekyll-compatible) theme packs incl. Reveal.js, Bespoke.js, Impress.js, and many more
 - [**Day 19 - merkletree**](19-merkletree.md) - Build your own crypto hash trees; grow your own money on trees
 - [**Day 20 - eventdb**](20-eventdb.md) - Build your own What's On / What's Up event calendar from READMEs in (structured) text; read in (awesome) ruby conferences from around the world
+- [**Day 21 - sportdb**](21-sportdb.md) - Read in your own sport (football) datasets in (structured) text into any SQL database (SQLite, PostgreSQL, ...); fire up or write out (static) HTTP JSON APIs and much more 
 
 Upcoming
 
-- Day 21
 - Day 22
 - Day 23
 - Day 24
