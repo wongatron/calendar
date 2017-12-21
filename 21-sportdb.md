@@ -1,11 +1,11 @@
 _World Cup - English Premier League - Spanish La Liga - Austrian Bundesliga :-) And Much More_
 
-sportdb library and command line tool - Read in Your Own Sport (Football)
+# sportdb library and command line tool - Read in Your Own Sport (Football)
 Datasets in (Structured) Text into any SQL Database (SQLite, PostgreSQL, ...);
 Fire Up or Write Out (Static) HTTP JSON APIs and Much More
 
 
-# What's sportdb?
+## What's sportdb?
 
 A library and command line tool that ships with an
 ready-to-use sport.db SQL schema
