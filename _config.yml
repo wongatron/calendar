@@ -1,4 +1,6 @@
 
+exclude:
+- LICENSE.md
 
 plugins:
 - jekyll-avatar
