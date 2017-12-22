@@ -6,7 +6,7 @@ _Open Data - Frictionless Data - Tabular Data Packages - Core (Open Tabular) Dat
 github: [textkit/datapak](https://github.com/textkit/datapak),
 rubygems: [datapak](https://rubygems.org/gems/datapak),
 rdoc: [datapak](http://rubydoc.info/gems/datapak) ++
-more: [comments on reddit, please!]()
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7liugu/day_22_ruby_advent_calendar_2017_datapak_work/)
 
 
 Let's say you want to share your data with the world
