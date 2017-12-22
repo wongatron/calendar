@@ -1,13 +1,7 @@
 _Open Data - Frictionless Data - Tabular Data Packages - Core (Open Tabular) Datasets and Much More_
 
 
-# datapak library - Work with Tabular Data Packages (.CSV Files w/ datapackage.json) Using In-Memory SQLite (w/ ActiveRecord)
-
-
-* home     :: [github.com/textkit/datapak]()
-* gem      :: [rubygems.org/gems/datapak](https://rubygems.org/gems/datapak)
-* rdoc     :: [rubydoc.info/gems/datapak](http://rubydoc.info/gems/datapak)
-
+# datapak library - Work with Tabular Data Packages (.CSV Files w/ datapackage.json) Using SQLite In-Memory (w/ ActiveRecord)
 
 github: [textkit/datapak](https://github.com/textkit/datapak),
 rubygems: [datapak](https://rubygems.org/gems/datapak),
