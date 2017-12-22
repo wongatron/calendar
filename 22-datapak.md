@@ -79,9 +79,9 @@ Name                     | Comments
 and many more.
 
 
-## What's the datapak gem?
+## What's the datapak library?
 
-Now the questions is how to work with tabular data packages in Ruby. Let's try the datapak library.
+Now the questions is how to work with tabular data packages in ruby scripts. Let's try the datapak library.
 
 ``` ruby
 require 'datapak`
