@@ -90,7 +90,7 @@ Example - `GET /beer/guinness`:
 }
 ```
 
-Let's use the Sinatra-like webservice libary that offers a mini language, 
+Let's use the Sinatra-like webservice library that offers a mini language, 
 that is, domain-specific language (DSL)
 that lets you define routes, that is, HTTP methods paired with an URL-matching pattern
 and much more.
