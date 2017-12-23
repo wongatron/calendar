@@ -28,11 +28,11 @@ automate, automate, automate
 - [**Day 20 - eventdb**](20-eventdb.md) - Build your own What's On / What's Up event calendar from READMEs in (structured) text; read in (awesome) ruby conferences from around the world
 - [**Day 21 - sportdb**](21-sportdb.md) - Read in your own sport (football) datasets in (structured) text into any SQL database (SQLite, PostgreSQL, ...); fire up or write out (static) HTTP JSON APIs and much more 
 - [**Day 22 - datapak**](22-datapak.md) - Work with tabular data packages (.CSV files w/ datapackage.json) using SQLite in-memory (w/ ActiveRecord)
+- [**Day 23 - beerdb**](23-beerdb.md) - Serve yourself an irish stout, vienna lager or bamberger rauchbier as JSON; free home (computer) delivery
 
 
 Upcoming
 
-- Day 23
 - Day 24
 - Day 25
 
