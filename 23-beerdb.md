@@ -1,13 +1,13 @@
 _Cheers, Prost, Kampai, Na zdravi, Salute, 乾杯, Skål, Egészségedre!_
 
 
-# beerdb library and command line tool - Serve Yourself an Irish Stout, Vienna Lager or Bamberger Rauchbier as JSON; Free Home (Computer) Delivery"
+# beerdb library and command line tool - Serve Yourself an Irish Stout, Vienna Lager or Bamberger Rauchbier as JSON; Free Home (Computer) Delivery
 
 
 github: [beerkit/beer.db](https://github.com/beerkit/beer.db),
 rubygems: [beerdb](https://rubygems.org/gems/beerdb),
 rdoc: [beerdb](http://rubydoc.info/gems/beerdb)  ++
-more: [comments on reddit, please!]()
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7lrrdk/day_23_ruby_advent_calendar_2017_beerdb_serve/)
 
 
 ## What's the beerdb library?
