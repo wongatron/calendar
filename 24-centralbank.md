@@ -3,6 +3,11 @@ Revolutionize the world with blockchains, blockchains, blockchains one block at 
 
 # centralbank library and command line tool - Print Your Own Money / Cryptocurrency; Run Your Own Federated Central Bank Nodes on the Blockchain Peer-to-Peer over HTTP
 
+github: [openblockchains/centralbank](https://github.com/openblockchains/centralbank),
+rubygems: [centralbank](https://rubygems.org/gems/centralbank),
+rdoc: [centralbank](http://rubydoc.info/gems/centralbank)  ++
+more: [comments on reddit, please!]()
+
 
 Use the `centralbank` command line tool. Try:
 
