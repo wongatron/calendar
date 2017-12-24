@@ -29,11 +29,10 @@ automate, automate, automate
 - [**Day 21 - sportdb**](21-sportdb.md) - Read in your own sport (football) datasets in (structured) text into any SQL database (SQLite, PostgreSQL, ...); fire up or write out (static) HTTP JSON APIs and much more 
 - [**Day 22 - datapak**](22-datapak.md) - Work with tabular data packages (.CSV files w/ datapackage.json) using SQLite in-memory (w/ ActiveRecord)
 - [**Day 23 - beerdb**](23-beerdb.md) - Serve yourself an irish stout, vienna lager or bamberger rauchbier as JSON; free home (computer) delivery
-
+- [**Day 24 - centralbank**](24-centralbank.md) - Print your own money / cryptocurrency; run your own federated central bank nodes on the blockchain peer-to-peer over HTTP
 
 Upcoming
 
-- Day 24
 - Day 25
 
 
