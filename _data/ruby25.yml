@@ -10,7 +10,7 @@
   
 - title:     "Ruby 2.5.0 Changes"
   subtitle:  "Official changes since the 2.4.0 release"
-  url:        https://docs.ruby-lang.org/en/trunk/NEWS.html
+  url:        https://github.com/ruby/ruby/blob/v2_5_0/NEWS
 
 - title:     "Standard Gems 2.5.0 - Default Gems, Bundled Gems"
   subtitle:  "by Jan Lelis, Idiosyncratic Ruby"
