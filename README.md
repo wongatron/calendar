@@ -30,10 +30,7 @@ automate, automate, automate
 - [**Day 22 - datapak**](22-datapak.md) - Work with tabular data packages (.CSV files w/ datapackage.json) using SQLite in-memory (w/ ActiveRecord)
 - [**Day 23 - beerdb**](23-beerdb.md) - Serve yourself an irish stout, vienna lager or bamberger rauchbier as JSON; free home (computer) delivery
 - [**Day 24 - centralbank**](24-centralbank.md) - Print your own money / cryptocurrency; run your own federated central bank nodes on the blockchain peer-to-peer over HTTP
-
-Upcoming
-
-- Day 25
+- [**Day 25 - officetxt**](25-officetxt.md) - Write notes, articles, journals, presentations, websites, blogs, manuscripts, books & more; the free writer's command line tool suite works w/ any text editor; uses future-proof text formats
 
 
 And many more
