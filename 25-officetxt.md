@@ -25,7 +25,7 @@ Command line tools include:
 - `rougify`   
 - `kramdown`
 - `w2m`   
-- `quik` (`qk`
+- `quik` (`qk`)
 
 
 Use
