@@ -33,6 +33,7 @@ automate, automate, automate
 - [**Day 25 - officetxt**](25-officetxt.md) - Write notes, articles, journals, presentations, websites, blogs, manuscripts, books & more; the free writer's command line tool suite works w/ any text editor; uses future-proof text formats
 
 
+<!--
 And many more
 
 [**metasm**](https://github.com/jjyg/metasm), an assembly manipulation suite
@@ -42,7 +43,6 @@ And many more
 >
 > -- [Torsten Rüger](https://github.com/dancinglightning) {% avatar dancinglightning size=20 %}
 
-<!--
     not heard back so far
 [**moneta**](https://github.com/minad/moneta), a unified interface to key/value stores
 
