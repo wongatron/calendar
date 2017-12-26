@@ -6,7 +6,7 @@ _Works w/ any text editor - future-proof text formats - the free writer's comman
 github: [officetxt/officetxt](https://github.com/officetxt/officetxt),
 rubygems: [officetxt](https://rubygems.org/gems/officetxt),
 rdoc: [officetxt](http://rubydoc.info/gems/officetxt)  ++
-more: [comments on reddit, please!]()
+more: [comments on reddit, please!](https://www.reddit.com/r/ruby/comments/7m4f3n/day_25_ruby_advent_calendar_2017_officetxt_write/)
 
 
 ## What's Office.TXT?
