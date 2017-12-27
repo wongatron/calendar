@@ -47,3 +47,7 @@
 - title:    "Ruby 2.5 is out - Let's benchmark"
   subtitle: "by Thomas Leitner, HexaPDF"
   url:      https://gettalong.org/blog/2017/benchmarking-ruby-2-5 
+
+- title:    "Changes in Ruby 2.5"
+  subtitle: "by Kir Shatrov, Production Engineer @ Shopify"
+  url:      http://iempire.ru/2017/12/26/ruby-2-5
