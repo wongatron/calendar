@@ -51,3 +51,7 @@
 - title:    "Changes in Ruby 2.5"
   subtitle: "by Kir Shatrov, Production Engineer @ Shopify"
   url:      http://iempire.ru/2017/12/26/ruby-2-5
+
+- title:   "What's New in Ruby 2.5?"
+  subtitle "by Nithin Bekal, Programmer from Ottawa @ Shopify"
+  url:      http://nithinbekal.com/posts/ruby-2-5-features
