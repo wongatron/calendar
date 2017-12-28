@@ -55,3 +55,7 @@
 - title:    "What's New in Ruby 2.5?"
   subtitle: "by Nithin Bekal, Programmer from Ottawa @ Shopify"
   url:      http://nithinbekal.com/posts/ruby-2-5-features
+
+- title:    "New Features in Ruby 2.5"
+  subtitle: "by Rodrigo Ponce de León, Ruby developer @ WyeWorks"
+  url:       https://wyeworks.com/blog/2017/12/28/new-features-in-ruby-2-dot-5-0/
