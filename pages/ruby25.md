@@ -1,5 +1,5 @@
 ---
-## layout: ruby25
+layout:    ruby25
 permalink: /ruby25
 ---
 
