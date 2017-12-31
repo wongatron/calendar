@@ -24,6 +24,14 @@
   subtitle: "by Vladimir Makarov, Red Hat, Sept 2017, Talk @ RubyKaigi 2017 on register transfer language (RTL) and method JIT (MJIT)"
   url:       http://rubykaigi.org/2017/presentations/vnmakarov.html
 
+- title:    "OptCarrot: An Excellent CPU Benchmark for Ruby 3x3"
+  subtitle: "by Noah Gibbs, Appfolio, Sept 2017" 
+  url:       http://engineering.appfolio.com/appfolio-engineering/2017/9/22/optcarrot-an-excellent-cpu-benchmark-for-ruby-3x3 
+
+- title:    "Running Optcarrot, a Ruby NES emulator, at 150 fps with the GUI!"
+  subtitle: "by Benoit Daloze, Oracle Labs @ Johannes Kepler University, Nov 2016"
+  url:       https://eregon.me/blog/2016/11/28/optcarrot.html
+  
 - title:    "Ruby 3x3: Q&A w/ Matz, Koichi, and Tenderlove"
   subtitle: "On the guild proposal, just-in-time (JIT) compilation the future of ruby performance by Jonan Scheffler, Heroku, Nov 2016"
   url:       https://blog.heroku.com/ruby-3-by-3
