@@ -20,6 +20,10 @@
   subtitle: "by Noah Gibbs, Appfolio, Dec 2017"
   url:       http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3
 
+- title:    "Towards Ruby 3x3 Performance - Introducing RTL and MJIT"
+  subtitle: "by Vladimir Makarov, Red Hat, Sept 2017, Talk @ RubyKaigi 2017 on register transfer language (RTL) and method JIT (MJIT)"
+  url:       http://rubykaigi.org/2017/presentations/vnmakarov.html
+
 - title:    "Ruby 3x3: Q&A w/ Matz, Koichi, and Tenderlove"
   subtitle: "On the guild proposal, just-in-time (JIT) compilation the future of ruby performance by Jonan Scheffler, Heroku, Nov 2016"
   url:       https://blog.heroku.com/ruby-3-by-3
