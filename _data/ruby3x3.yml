@@ -1,0 +1,25 @@
+#############################
+#  ruby 3x3 news bytes
+#
+#  published on the Ruby Advent Calendar
+#    see https://planetruby.github.io/advent2017
+
+- title:    "Ruby 3x3 @ Awesome Rubies"
+  subtitle: "What's Ruby 3x3? What's Optcarrot?"
+  url:       https://github.com/planetruby/awesome-rubies#3x3-news
+
+- title:    "Official Rubies 3x3 Benchmark with Optcarrot"
+  subtitle: "Nintendo Entertainment System (NES) emulator benchmark - running w/ 20 fps in Ruby 2 and w/ 60 fps in Ruby 3 (3x faster!)" 
+  url:       https://github.com/mame/optcarrot/blob/master/doc/benchmark.md
+
+- title:    "MJIT Infrastructure Accepted into Ruby 2.6"
+  subtitle: "JIT worker thread, profiler, gcc/clang compiler support, loading function from shared object file, some hooks to ensure; Dec 2017"
+  url:       https://github.com/ruby/ruby/pull/1782
+
+- title:    "How's Progress on Ruby 3x3?"
+  subtitle: "by Noah Gibbs, Appfolio, Dec 2017"
+  url:       http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3
+
+- title:    "Latest #Ruby3x3 News Bytes"
+  subtitle: "Official Twitter Ruby 3x3 Hashtag"
+  url:       https://twitter.com/hashtag/Ruby3x3
