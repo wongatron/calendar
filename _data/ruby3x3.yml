@@ -16,6 +16,10 @@
   subtitle: "JIT worker thread, profiler, gcc/clang compiler support, loading function from shared object file, some hooks to ensure; Dec 2017"
   url:       https://github.com/ruby/ruby/pull/1782
 
+- title:    "Ruby 3 and JIT: Where, When and How Fast?"
+  subtitle: "by Noah Gibbs, Appfolio, Dec 2017"
+  url:       http://engineering.appfolio.com/appfolio-engineering/2017/12/26/ruby-3-and-jit-where-when-and-how-fast
+
 - title:    "How's Progress on Ruby 3x3?"
   subtitle: "by Noah Gibbs, Appfolio, Dec 2017"
   url:       http://engineering.appfolio.com/appfolio-engineering/2017/12/4/hows-progress-on-ruby-3x3
