@@ -27,7 +27,11 @@
 - title:     "Performance Improvements in Ruby 2.5"
   subtitle:  "by Jesus Castello, Ruby Guides"
   url:        http://www.rubyguides.com/2017/11/ruby-2-5-performance/
-      
+
+- title:     "How Much Faster is Ruby 2.5.0 Preview 1?"
+  subtitle:  "by Noah Gibbs, Appfolio"
+  url:        http://engineering.appfolio.com/appfolio-engineering/2017/11/29/how-much-faster-is-ruby-250-preview-1
+
 - title:    "yield_self in Ruby 2.5"
   subtitle: "by Michał Łomnicki"
   url:       https://mlomnicki.com/yield-self-in-ruby-25/
