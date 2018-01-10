@@ -79,6 +79,11 @@
   subtitle:  "Upcoming this summer in Vienna, Austria"
   url:       http://euruko.org
   twitter:   euruko
+  
+ - title:     "RailsCamp West - Aug 18-21, 2018"
+  subtitle:  "Camp at Lake Tahoe, California, United States"
+  url:        http://west.railscamp.us/
+  twitter:    railscamp_USA 
 
 - title:     "RubyConf - Nov 13-15, 2018"
   subtitle:  "Conference in Los Angeles, California, United States"
