@@ -10,12 +10,12 @@
    <div style="font-size: 80%;">
      <!-- fix/todo:  move to its own include  homelink or link or something ???
        -->
-     
+
      {% if page.contains "README.md" %}
           From the <a href="{{ '/' | relative_url }}">Calendar @ Planet Ruby</a>.
      {% else %}
           From the <a href="{{ '/advent2017' | relative_url }}">Advent Calendar 2017 @ Planet Ruby</a>.
-     {% end %}
+     {% endif %}
    </div>
 {% else %}
    <hr>
