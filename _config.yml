@@ -1,13 +1,15 @@
 
 ## e.g. /2018/1   - used for monthly updates
-
 permalink: /:year/:i_month.html
+
+
 
 exclude:
 - LICENSE.md
+- NOTES.md
+- advent2018/NOTES.md
+
 
 plugins:
 - jekyll-avatar
 - jekyll-feed
-
-

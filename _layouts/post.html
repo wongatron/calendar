@@ -5,7 +5,7 @@
   <title>{{ page.title }} | Planet Ruby</title>
 
   <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/css/syntax.css' | relative_url }}">     
+  <link rel="stylesheet" href="{{ '/css/syntax.css' | relative_url }}">
 </head>
 <body>
   {% include github.html %}
@@ -15,16 +15,23 @@
      <p style="font-size: 80%;">
        <a href="{{ '/' | relative_url }}">« Calendar @ Planet Ruby</a>
      </p>
-    
+
     <h1>{{ page.title }}</h1>
-    
+
    {{ content }}
+
+
+
+    <p>
+       <a href="{{ '/feed.xml' | relative_url  }}">Subscribe to the Web Feed</a>
+    </p>
+
 
      <hr>
      <div style="font-size: 80%;">
        From the <a href="{{ '/' | relative_url }}">Calendar @ Planet Ruby</a>.
      </div>
- 
+
   </div>
 </body>
 </html>
