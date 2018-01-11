@@ -1,4 +1,4 @@
-# Calendar @ Ruby Planet
+# Calendar @ Planet Ruby
 
 
 - [Ruby Conferences & Camps in 2018 - What's Up?](2018) • [(Web Feed)](feed.xml) - Conferences, camps and more from around the world
