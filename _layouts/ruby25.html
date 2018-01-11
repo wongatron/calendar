@@ -2,48 +2,42 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title }} | Planet Ruby</title>
 
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/syntax.css">     
+  {% include head.html %}
 </head>
 <body>
-  {% include github.html %}
- 
+
   <div class="container">
 
-     <p style="font-size: 80%;">
-       <a href="{{ '/' | relative_url }}">« Ruby Advent Calendar 2017</a>
-     </p>
- 
- 
+   {% include header.html %}
+
+
    <h1>Ruby 2.5 - What's News?</h1>
- 
+
     <p>
      An awesome collection about ruby 2.5 news:
     </p>
-    
+
     {% for item in site.data.ruby25 %}
       <div style="padding: 4px;">
         <a href="{{ item.url }}">{{ item.title }}</a><br>
         {{ item.subtitle }}
       </div>
     {% endfor %}
- 
- 
+
+
     <div style="padding: 4px; font-size: 80%;">
       <a href="https://github.com/planetruby/advent2017/blob/master/_data/ruby25.yml">Add your ruby 2.5 news byte »</a>
-    </div>                            
+    </div>
   </div>
- 
-    
+
+
    {{ content }}
 
-     <hr>
-     <div style="font-size: 80%;">
-       From the <a href="{{ '/' | relative_url }}">Ruby Advent Calendar 2017</a>.
-     </div>
- 
+    {% include footer.html %}
+
   </div>
+    {% include github.html %}
 </body>
 </html>

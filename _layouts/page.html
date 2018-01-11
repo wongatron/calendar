@@ -14,13 +14,7 @@
 
      {{ content }}
 
-  {% if page.path contains "README" %}
-  {% else %}
-     <hr>
-     <div style="font-size: 80%;">
-       From the <a href="{{ '/' | relative_url }}">Calendar @ Planet Ruby</a>.
-     </div>
-  {% endif %}
+      {% include footer.html %}
 
   </div>
 
