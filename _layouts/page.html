@@ -2,35 +2,29 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title }} | Planet Ruby</title>
 
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/syntax.css">     
+  {% include head.html %}
 </head>
 <body>
-  {% include github.html %}
-  {% include broadcasts.html %}
+
 
   <div class="container">
+      {% include header.html %}
 
-  {% if page.path contains "README" %}
-  {% else %}
-     <p style="font-size: 80%;">
-       <a href="{{ '/' | relative_url }}">« Ruby Advent Calendar 2017</a>
-     </p>
-  {% endif %}
-    
-    
-   {{ content }}
+     {{ content }}
 
   {% if page.path contains "README" %}
   {% else %}
      <hr>
      <div style="font-size: 80%;">
-       From the <a href="{{ '/' | relative_url }}">Ruby Advent Calendar 2017</a>.
+       From the <a href="{{ '/' | relative_url }}">Calendar @ Planet Ruby</a>.
      </div>
   {% endif %}
- 
+
   </div>
+
+  {% include github.html %}
+
 </body>
 </html>

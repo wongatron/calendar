@@ -2,54 +2,54 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title }} | Planet Ruby</title>
 
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/syntax.css">     
+  <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/css/syntax.css' | relative_url }}">
 </head>
 <body>
   {% include github.html %}
- 
+
   
   <!-- todo:
       use one layout for ruby25 and events - make title, etc. configurable
     -->
-  
-  
+
+
   <div class="container">
 
      <p style="font-size: 80%;">
        <a href="{{ '/' | relative_url }}">« Ruby Advent Calendar 2017</a>
      </p>
- 
- 
+
+
    <h1>Ruby Conferences (&amp; Camps) in 2018 - What's Upcoming?</h1>
- 
+
     <p>
      An awesome collection about ruby events (incl. conferences, camps, and more):
     </p>
-    
+
     {% for item in site.data.events %}
       <div style="padding: 4px;">
         <a href="{{ item.url }}">{{ item.title }}</a><br>
         {{ item.subtitle }}
       </div>
     {% endfor %}
- 
- 
+
+
     <div style="padding: 4px; font-size: 80%;">
       <a href="https://github.com/planetruby/advent2017/blob/master/_data/events.yml">Add your event news byte »</a>
-    </div>                            
+    </div>
   </div>
- 
-    
+
+
    {{ content }}
 
      <hr>
      <div style="font-size: 80%;">
        From the <a href="{{ '/' | relative_url }}">Ruby Advent Calendar 2017</a>.
      </div>
- 
+
   </div>
 </body>
 </html>

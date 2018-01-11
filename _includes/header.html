@@ -1,0 +1,14 @@
+  <!--
+  {% include broadcasts.html %}
+  -->
+
+
+  page.path: -I {{ page.path }} I-
+
+
+  {% if page.path contains "README" %}
+  {% else %}
+     <p style="font-size: 80%;">
+       <a href="{{ '/' | relative_url }}">« Calendar @ Planet Ruby</a>
+     </p>
+  {% endif %}
