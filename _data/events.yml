@@ -71,7 +71,7 @@
   twitter:    parisrb
 
 - title:     "RubyConf Kenya"
-  subtitle:  "Upcoming this summer in Nairobi, Kenya"
+  subtitle:  "Upcoming this summer in June in Nairobi, Kenya"
   url:        http://rubyconf.nairuby.org/2018
   twitter:    nairubyke
 
@@ -80,10 +80,10 @@
   url:       http://euruko.org
   twitter:   euruko
   
- - title:     "RailsCamp West - Aug 18-21, 2018"
+- title:     "RailsCamp West - Aug 18-21, 2018"
   subtitle:  "Camp at Lake Tahoe, California, United States"
-  url:        http://west.railscamp.us/
-  twitter:    railscamp_USA 
+  url:        http://west.railscamp.us
+  twitter:    railscamp_usa
 
 - title:     "RubyConf - Nov 13-15, 2018"
   subtitle:  "Conference in Los Angeles, California, United States"
