@@ -8,7 +8,7 @@
 
   {% if page.path == "README.md" %}
 
-  {% elsif page.path contains "advent2017" and not "README.md" %}
+  {% elsif page.path contains "advent2017" %}
      <p style="font-size: 80%;">
        {% if page.contains "README.md" %}
           <a href="{{ '/' | relative_url }}">« Calendar @ Planet Ruby</a>
