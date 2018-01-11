@@ -3,6 +3,10 @@
 permalink: /:year/:i_month.html
 
 
+## site.title  used by feed plugin for now only
+title: Ruby Conferences 'n' Camps in 2018 - What's Upcoming?
+
+
 
 exclude:
 - LICENSE.md
