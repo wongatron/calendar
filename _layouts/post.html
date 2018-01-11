@@ -14,13 +14,15 @@
 
     <h1>{{ page.title }}</h1>
 
+    <p>
+       Subscribe to the <a href="{{ '/feed.xml' | relative_url  }}"> Web Feed</a> (Monthly Updates)
+    </p>
+
+
    {{ content }}
 
 
 
-    <p>
-       <a href="{{ '/feed.xml' | relative_url  }}">Subscribe to the Web Feed</a>
-    </p>
 
       {% include footer.html %}
 

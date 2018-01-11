@@ -1,8 +1,8 @@
 #############################
-#  ruby event news
+#  ruby event news in 2018
 #
-#  published on the Ruby Advent Calendar
-#    see https://planetruby.github.io/advent2017
+#  published at the Calendar @ Planet Ruby
+#    see https://planetruby.github.io/calendar/2018
 
 
 - title:     "Ruby on Ice - Jan 26-28th, 2018"
@@ -12,14 +12,14 @@
 
 - title:     "Rubyfuza - Feb 1st-3rd, 2018"
   subtitle:  "Conference in Cape Town, South Africa"
-  url:        http://www.rubyfuza.org 
+  url:        http://www.rubyfuza.org
   twitter:    rubyfuza
-   
+
 - title:     "RubyConf India - Feb 9th+10th, 2018"
   subtitle:  "Conference in Bengaluru, India"
   url:        http://rubyconfindia.org
   twitter:    Rubyconfindia
-      
+
 - title:     "RubyConf Australia - March 8th+9th, 2018"
   subtitle:  "Conference in Sydney, Australia"
   url:        https://www.rubyconf.org.au/2018
@@ -44,12 +44,12 @@
   subtitle:  "Conference in Pittsburgh, Pennsylvania, United States"
   url:        https://railsconf.com
   twitter:    railsconf
- 
+
 - title:     "Ruby X Elixir Conf Taiwan - April 27th+28th, 2018"
   subtitle:  "Conference in Taipei, Taiwan"
   url:        https://2018.rubyconf.tw
   twitter:    rubyconftw
-   
+
 - title:     "Rubyhack - May 3rd+4th, 2018"
   subtitle:  "Conference in Salt Lake City, Utah, United States"
   url:        http://rubyhack.com
@@ -59,12 +59,12 @@
   subtitle:  "Conference in Sofia, Bulgaria"
   url:        http://balkanruby.com
   twitter:    balkanruby
- 
+
 - title:     "RubyKaigi - May 31st-Jun 2nd, 2018"
   subtitle:  "Conference in Sendai, Miyagi, Japan"
   url:       http://rubykaigi.org/2018
   twitter:   rubykaigi
- 
+
 - title:     "Paris.rb XXL - Jun 28+29th, 2018"
   subtitle:  "Conference in Paris, France"
   url:        http://2018.rubyparis.org
@@ -79,7 +79,7 @@
   subtitle:  "Upcoming this summer in Vienna, Austria"
   url:       http://euruko.org
   twitter:   euruko
-  
+
 - title:     "RailsCamp West - Aug 18-21, 2018"
   subtitle:  "Camp at Lake Tahoe, California, United States"
   url:        http://west.railscamp.us

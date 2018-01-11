@@ -7,6 +7,11 @@
   -->
 
   {% if page.path == "README.md" %}
+
+  {% elsif page.path contains "advent2017" and not "README.md" %}
+     <p style="font-size: 80%;">
+       <a href="{{ '/advent2017' | relative_url }}">« Advent Calendar 2017 @ Planet Ruby</a>
+     </p>
   {% else %}
      <p style="font-size: 80%;">
        <a href="{{ '/' | relative_url }}">« Calendar @ Planet Ruby</a>
