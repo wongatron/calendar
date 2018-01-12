@@ -69,6 +69,11 @@
   subtitle:  "Conference in Paris, France"
   url:        http://2018.rubyparis.org
   twitter:    parisrb
+  
+  - title:    "Brighton Ruby - July 6th, 2018"
+  subtitle:   "Conference in Brighton, UK"
+  url:        https://brightonruby.com/
+  twitter:    brightonruby
 
 - title:     "RubyConf Kenya"
   subtitle:  "Upcoming this summer in June in Nairobi, Kenya"
